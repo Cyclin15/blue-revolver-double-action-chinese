@@ -1,0 +1,2780 @@
+{
+ "areyousure": {
+  "english": "Are you sure?",
+  "中文": "确定吗？"
+ },
+ "assist_enhancedshot": {
+  "english": "Enhanced Shot",
+  "中文": "强化射击"
+ },
+ "assist_enhancedshot_description": {
+  "english": "Increased primary weapon damage. (+35%)",
+  "中文": "主武器伤害提升。（+35%）"
+ },
+ "assist_freeplay": {
+  "english": "Free Play",
+  "中文": "自由模式"
+ },
+ "assist_freeplay_description": {
+  "english": "Arcade-style continues, allowing you to refill your lives and keep going when you run out.",
+  "中文": "街机式续关：生命耗尽时可以补满生命并继续。"
+ },
+ "assist_infiniteammo": {
+  "english": "Infinite Ammo",
+  "中文": "无限弹药"
+ },
+ "assist_infiniteammo_description": {
+  "english": "Infinite ammo for all special weapons.",
+  "中文": "所有特殊武器弹药无限。"
+ },
+ "assist_reducedbullets": {
+  "english": "Reduced Bullets",
+  "中文": "弹幕削减"
+ },
+ "assist_reducedbullets_description": {
+  "english": "50% less enemy bullets to deal with.",
+  "中文": "需要应对的敌方弹幕减少 50%。"
+ },
+ "assist_slowbullets": {
+  "english": "Slow Bullets",
+  "中文": "弹幕减速"
+ },
+ "assist_slowbullets_description": {
+  "english": "40% slower enemy bullets. (Note: This doesn't always make things easier...)",
+  "中文": "敌方弹幕速度降低 40%。（注意：这不一定能让游戏变简单……）"
+ },
+ "assist_superautobomb": {
+  "english": "Super Autobomb",
+  "中文": "超级自动炸弹"
+ },
+ "assist_superautobomb_description": {
+  "english": "Bombs are used automatically to save you from death on all modes. Super Autobomb only uses up one bomb, instead of all in reserve.",
+  "中文": "所有模式下都会自动释放炸弹，为你挡下致命一击。超级自动炸弹只消耗一枚炸弹，而不是全部库存。"
+ },
+ "back": {
+  "english": "Back",
+  "中文": "返回"
+ },
+ "boss1craft": {
+  "english": "R1 \"DELPHI\""
+ },
+ "boss1name": {
+  "english": "RUM & ALE"
+ },
+ "boss1name_val": {
+  "english": "???"
+ },
+ "boss1quote": {
+  "english": "Where do you think you're going in that machine?",
+  "中文": "喂喂喂，开着那种机器，你这是要去哪儿呀？"
+ },
+ "boss1quote_val": {
+  "english": "... ... ...",
+  "中文": "……"
+ },
+ "boss2craft": {
+  "english": "R2 \"HASKEL\""
+ },
+ "boss2name": {
+  "english": "DON"
+ },
+ "boss2name_val": {
+  "english": "???"
+ },
+ "boss2quote": {
+  "english": "That Device doesn't seem to be registered in our database. Did someone sell it to you?",
+  "中文": "那台 Device 似乎没有登记在我们的数据库里。是有人把它转卖给你的吗？"
+ },
+ "boss2quote_val": {
+  "english": "... ... ...",
+  "中文": "……"
+ },
+ "boss3craft": {
+  "english": "R3 \"YASUMI\""
+ },
+ "boss3name": {
+  "english": "VAL"
+ },
+ "boss3name_val": {
+  "english": "VAL"
+ },
+ "boss3quote": {
+  "english": "I'm getting really tired of playing cat and mouse. Could you do me a favor and go turn yourself in instead?",
+  "中文": "这猫捉老鼠的游戏我已经玩腻了。能不能麻烦你自己去自首？"
+ },
+ "boss3quote_val": {
+  "english": "I'm glad to see that you're doing okay after all.",
+  "中文": "看到你到头来还是安然无恙，我就放心了。"
+ },
+ "boss4craft": {
+  "english": "R4 \"LUNA\""
+ },
+ "boss4name": {
+  "english": "IRA"
+ },
+ "boss4name_val": {
+  "english": "MAE"
+ },
+ "boss4quote": {
+  "english": "I've heard a lot about you. Step out of the cockpit and come play with me!",
+  "中文": "你的事迹我早有耳闻。从那台机体里出来，陪我玩玩吧！"
+ },
+ "boss4quote_val": {
+  "english": "Yoo-hoo!! Would you happen to know where my ship went?",
+  "中文": "哟嚯！！你知道我的机体飞到哪儿去了吗？"
+ },
+ "boss5craft": {
+  "english": "SR-1 \"EPSILON\""
+ },
+ "boss5name": {
+  "english": "DEE"
+ },
+ "boss5name_val": {
+  "english": "DEE"
+ },
+ "boss5quote": {
+  "english": "If I don't act now, then this could be the end for the both of us. I hope you're ready.",
+  "中文": "如果我现在不出手，我们俩可能就都要完蛋了。希望你已经准备好了。"
+ },
+ "boss5quote_val": {
+  "english": "You can't stay dreaming like this forever.",
+  "中文": "你不能永远都沉浸在这样的梦里。"
+ },
+ "boss6craft": {
+  "english": "SR-X \"ZEALOT\""
+ },
+ "boss6name": {
+  "english": "VAL & DEE"
+ },
+ "boss6name_val": {
+  "english": "MAE & DEE"
+ },
+ "boss6quote": {
+  "english": "You're not the only one who can break the rules.",
+  "中文": "并不是只有你一个人会打破规则。"
+ },
+ "boss6quote_val": {
+  "english": "You're not the only one who can break the rules."
+ },
+ "boss7craft": {
+  "english": "R3-X \"ZANGYOU\""
+ },
+ "boss7name": {
+  "english": "???",
+  "中文": "???"
+ },
+ "continue_prompt": {
+  "english": "Press SPECIAL to continue!",
+  "中文": "按 SPECIAL 键继续！"
+ },
+ "credits_1": {
+  "english": [
+   "=STAFF="
+  ],
+  "中文": [
+   "=制作人员="
+  ]
+ },
+ "credits_10": {
+  "english": [
+   "MUSIC REMIXES",
+   "Blue Phoenix",
+   "Exemia",
+   "Mitomoro",
+   "Terranaut",
+   "Aghast",
+   "Hyphen",
+   "ikaruga_nex"
+  ],
+  "中文": [
+   "音乐混音",
+   "Blue Phoenix",
+   "Exemia",
+   "Mitomoro",
+   "Terranaut",
+   "Aghast",
+   "Hyphen",
+   "ikaruga_nex"
+  ]
+ },
+ "credits_11": {
+  "english": [
+   "GUEST GALLERY",
+   "Shiomachi",
+   "Raigou",
+   "Yosuke",
+   "Arsk",
+   "Hermes",
+   "Naso",
+   "Mandi",
+   "Ken",
+   "Moudoku",
+   "rae",
+   "U#",
+   "Yawe",
+   "Rog Rockbe",
+   "barachan",
+   "Comic-Z",
+   "ginko",
+   "Godshot",
+   "Kusada"
+  ],
+  "中文": [
+   "客座画廊",
+   "Shiomachi",
+   "Raigou",
+   "Yosuke",
+   "Arsk",
+   "Hermes",
+   "Naso",
+   "Mandi",
+   "Ken",
+   "Moudoku",
+   "rae",
+   "U#",
+   "Yawe",
+   "Rog Rockbe",
+   "barachan",
+   "Comic-Z",
+   "ginko",
+   "Godshot",
+   "Kusada"
+  ]
+ },
+ "credits_12": {
+  "english": [
+   "TRANSLATION",
+   "Morikuma",
+   "Tasoyani",
+   "mojilove",
+   "Ehkzai",
+   "MoonZ"
+  ],
+  "中文": [
+   "本地化",
+   "Morikuma",
+   "Tasoyani",
+   "mojilove",
+   "Ehkzai",
+   "MoonZ"
+  ]
+ },
+ "credits_13": {
+  "english": [
+   "BETA TESTERS",
+   "Jaimers",
+   "Yomogimaru",
+   "Ehkzai",
+   "koren",
+   "pigswill",
+   "Sebmal",
+   "Sibladeko",
+   "GSK",
+   "Nihnoz",
+   "sesh",
+   "whisper",
+   "Cagar",
+   "Bananamatic",
+   "2house2fly",
+   "Softdrink",
+   "PepsimanVsJoe"
+  ],
+  "中文": [
+   "测试人员",
+   "Jaimers",
+   "Yomogimaru",
+   "Ehkzai",
+   "koren",
+   "pigswill",
+   "Sebmal",
+   "Sibladeko",
+   "GSK",
+   "Nihnoz",
+   "sesh",
+   "whisper",
+   "Cagar",
+   "Bananamatic",
+   "2house2fly",
+   "Softdrink",
+   "PepsimanVsJoe"
+  ]
+ },
+ "credits_14": {
+  "english": [
+   "=STELLAR PLAYERS=",
+   "",
+   "=WR HOLDERS=",
+   "marus",
+   "むんべちゃん",
+   "Kiwi",
+   "Legless",
+   "",
+   "=FLAWLESS PARALLEL=",
+   "珠海すみれ"
+  ],
+  "中文": [
+   "=星际玩家=",
+   "",
+   "=世界纪录保持者=",
+   "marus",
+   "=完美平行通关=",
+   "Kiwi",
+   "Legless",
+   "",
+   "=FLAWLESS PARALLEL=",
+   "珠海すみれ"
+  ]
+ },
+ "credits_15": {
+  "english": [
+   "=v0.5 SCORE ATTACK=",
+   "Jaimers, ODENMAN,",
+   "KOT, 路頭のすみす,",
+   "Bryant Rubio, くれない,",
+   "STK, Yomogimaru,",
+   "ふぉれすた, Softdrink,",
+   "Ratikal"
+  ],
+  "中文": [
+   "=v0.5 分数挑战=",
+   "Jaimers, ODENMAN,",
+   "KOT, 路頭のすみす,",
+   "Bryant Rubio, くれない,",
+   "STK, Yomogimaru,",
+   "ふぉれすた, Softdrink,",
+   "Ratikal"
+  ]
+ },
+ "credits_16": {
+  "english": [
+   "Built with LOVE",
+   "love2d.org",
+   "",
+   "=LIBRARIES=",
+   "HUMP",
+   "Simple Tiled Implementation",
+   "anim8, love-loader",
+   "brinevector, bitser",
+   "moonshine, luasteam",
+   "json.lua, shash.lua",
+   "lume.lua, lurker.lua",
+   "",
+   "=FONTS=",
+   "Silver.ttf",
+   "Thaleah",
+   "04b-03",
+   "ikkle-4"
+  ],
+  "中文": [
+   "基于 LOVE 引擎构建",
+   "love2d.org",
+   "",
+   "=程序库=",
+   "HUMP",
+   "Simple Tiled Implementation",
+   "anim8, love-loader",
+   "brinevector, bitser",
+   "moonshine, luasteam",
+   "json.lua, shash.lua",
+   "lume.lua, lurker.lua",
+   "",
+   "=字体=",
+   "Silver.ttf",
+   "Thaleah",
+   "04b-03",
+   "ikkle-4"
+  ]
+ },
+ "credits_17": {
+  "english": [
+   "=BLUE REVOLVER=",
+   "=DOUBLE ACTION=",
+   "",
+   "Presented by",
+   "STELLAR CIRCLE",
+   "2016-2024"
+  ],
+  "中文": [
+   "=BLUE REVOLVER=",
+   "=DOUBLE ACTION=",
+   "",
+   "呈现：",
+   "STELLAR CIRCLE",
+   "2016-2024"
+  ]
+ },
+ "credits_2": {
+  "english": [
+   "DESIGN / CODE",
+   "danbo"
+  ],
+  "中文": [
+   "设计 / 程序",
+   "danbo"
+  ]
+ },
+ "credits_3": {
+  "english": [
+   "ART DIRECTION",
+   "woof"
+  ],
+  "中文": [
+   "美术指导",
+   "woof"
+  ]
+ },
+ "credits_4": {
+  "english": [
+   "BACKGROUND ART",
+   "Comic"
+  ],
+  "中文": [
+   "背景美术",
+   "Comic"
+  ]
+ },
+ "credits_5": {
+  "english": [
+   "MUSIC",
+   "Qygen",
+   "Novaturtle",
+   "Exemia",
+   "Hagane"
+  ],
+  "中文": [
+   "音乐",
+   "Qygen",
+   "Novaturtle",
+   "Exemia",
+   "Hagane"
+  ]
+ },
+ "credits_6": {
+  "english": [
+   "SOUND",
+   "Wyrm"
+  ],
+  "中文": [
+   "音效",
+   "Wyrm"
+  ]
+ },
+ "credits_7": {
+  "english": [
+   "=GUESTS="
+  ],
+  "中文": [
+   "=客座嘉宾="
+  ]
+ },
+ "credits_8": {
+  "english": [
+   "VOICE ACTING",
+   "Momobako",
+   "Nayuki Yuzu",
+   "Akinola Verissimo",
+   "Matthew Cibulas"
+  ],
+  "中文": [
+   "配音",
+   "Momobako",
+   "Nayuki Yuzu",
+   "Akinola Verissimo",
+   "Matthew Cibulas"
+  ]
+ },
+ "credits_9": {
+  "english": [
+   "MASTERING",
+   "Dyzphazia"
+  ],
+  "中文": [
+   "母带处理",
+   "Dyzphazia"
+  ]
+ },
+ "credits_thanks": {
+  "english": [
+   "Thank you for playing."
+  ],
+  "中文": [
+   "感谢游玩。"
+  ]
+ },
+ "credits_thanks_hyper": {
+  "english": [
+   "Thank you for playing.",
+   "",
+   "Try PARALLEL mode!"
+  ],
+  "中文": [
+   "感谢游玩。",
+   "",
+   "试试平行模式吧！"
+  ]
+ },
+ "credits_thanks_normal": {
+  "english": [
+   "Thank you for playing.",
+   "",
+   "Try HYPER mode!"
+  ],
+  "中文": [
+   "感谢游玩。",
+   "",
+   "试试狂热模式吧！"
+  ]
+ },
+ "credits_thanks_parallel": {
+  "english": [
+   "Congratulations on your clear, and thank you from the bottom of our hearts.",
+   "",
+   "The time, the stress and the love we poured into this game would amount to nothing without players like you.",
+   "",
+   "Only when our efforts meet yours can we create something truly stellar.",
+   "",
+   "So may we keep working together, and may STGs never die!"
+  ],
+  "中文": [
+   "恭喜通关，并致以发自心底的感谢。",
+   "",
+   "我们倾注在这款游戏里的时间、煎熬与爱，如果没有像你这样的玩家，便都将归于虚无。",
+   "",
+   "唯有我们的努力与你们的付出相遇，才能创造出真正闪耀的东西。",
+   "",
+   "愿我们继续并肩前行，愿 STG 永不消亡！"
+  ]
+ },
+ "dee_ending_1": {
+  "english": "DEE: Hmm... Something about this simulation isn't quite right.",
+  "中文": "DEE：唔……这个模拟训练有哪里不太对劲。"
+ },
+ "dee_ending_2": {
+  "english": "DEE: I could barely keep up with everything it tossed at me.",
+  "中文": "DEE：它抛过来的东西我差点就跟不上了。"
+ },
+ "dee_ending_3": {
+  "english": "DEE: Ira was in charge of today's training program. Surely she didn't tamper with any of the core Device settings?",
+  "中文": "DEE：今天的训练程序是 Ira 负责的。她总不至于擅自改动 Device 的核心设置吧？"
+ },
+ "dee_ending_4": {
+  "english": "DEE: My performance rating should definitely be higher...",
+  "中文": "DEE：我的绩效评分绝对应该更高才对……"
+ },
+ "dee_ending_5": {
+  "english": "DEE: ...",
+  "中文": "DEE：……"
+ },
+ "dee_ending_6": {
+  "english": "DEE: I'm going to have a talk with her after this.",
+  "中文": "DEE：结束之后我得找她好好谈谈。"
+ },
+ "dee_ending_7": {
+  "english": "END",
+  "中文": "END"
+ },
+ "dee_ending_timings": {
+  "english": [
+   6,
+   6,
+   7,
+   5,
+   3,
+   4,
+   8
+  ]
+ },
+ "difficulty_hyper": {
+  "english": "Hyper",
+  "中文": "狂热"
+ },
+ "difficulty_normal": {
+  "english": "Normal",
+  "中文": "普通"
+ },
+ "difficulty_parallel": {
+  "english": "Parallel",
+  "中文": "平行"
+ },
+ "difficulty_xmode": {
+  "english": "XP-Mode",
+  "中文": "XP 模式"
+ },
+ "error_leaderboard_upload": {
+  "english": "Leaderboard upload error.",
+  "中文": "排行榜上传错误。"
+ },
+ "error_replay_attach": {
+  "english": "Replay attach error.",
+  "中文": "回放附加错误。"
+ },
+ "error_replay_download": {
+  "english": "Replay download error.",
+  "中文": "回放下载错误。"
+ },
+ "error_replay_upload": {
+  "english": "Replay upload error.",
+  "中文": "回放上传错误。"
+ },
+ "finalreward_congrats": {
+  "english": "100% completion rate.\nYou have reached the highest point.\nNew ship palettes unlocked.",
+  "中文": "100% 完成度。\n你已抵达最高点。\n解锁了新的机体配色。"
+ },
+ "finalreward_thanks": {
+  "english": "There's nothing left to say.\nThanks for believing in our game.\nStellar Circle, 2024",
+  "中文": "已经没有什么好说的了。\n感谢你一直信赖我们的游戏。\nStellar Circle，2024"
+ },
+ "framerate_warning": {
+  "english": "BLUE REVOLVER is designed and tested for 60Hz - altering this will result in very subtle gameplay differences.\n\nLeaderboards are only available for 60Hz and 120Hz.",
+  "中文": "《BLUE REVOLVER》以 60Hz 为设计与测试基准——更改帧率会造成非常细微的手感差异。\n\n排行榜仅支持 60Hz 与 120Hz。"
+ },
+ "intro_1": {
+  "english": "In this world, magic possesses a code-like structure.",
+  "中文": "在这个世界，魔法拥有类似代码的结构。"
+ },
+ "intro_10": {
+  "english": "With this alone, their performance and speed currently excels that of other competing Technician companies.",
+  "中文": "仅凭这一件产品，他们的性能与速度便已凌驾于其他同行技师公司之上。"
+ },
+ "intro_11": {
+  "english": "Supposedly only a handful of Devices are known to exist, all licensed under Blue Revolver.",
+  "中文": "据传，目前已知存在的 Device 寥寥无几，且全部登记在 Blue Revolver 名下。"
+ },
+ "intro_12": {
+  "english": "However, somewhere deep in the mountains lies a huge data anomaly with readings extremely similar to that of a Device.",
+  "中文": "然而，深山之中潜伏着一个巨大的数据异常体，其读数与 Device 极为相似。"
+ },
+ "intro_13": {
+  "english": "Other Technician companies have largely ignored this, assuming it was just one of Blue Revolver's creations.",
+  "中文": "其他技师公司大多对此置若罔闻，以为那不过是 Blue Revolver 的又一造物。"
+ },
+ "intro_14": {
+  "english": "Looking for answers and hoping to disable this anomaly, Blue Revolver heads out to investigate.",
+  "中文": "为了寻求答案、并期望解除这一异常，Blue Revolver 启程前往调查。"
+ },
+ "intro_2": {
+  "english": "Through the use of technological supplements and scripting, the user is able to defy, rewrite, and manipulate the laws of nature temporarily.",
+  "中文": "借助科技辅件与脚本编写，使用者得以暂时违逆、改写并操纵自然法则。"
+ },
+ "intro_3": {
+  "english": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "Due to the unnatural method of handling magic, using it extensively causes ",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "junk data",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   " to materialize - hazardous if allowed to build up."
+  ],
+  "中文": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "然而，以这种非自然的方式运用魔法，一旦大量使用，便会产生",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "垃圾数据",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "并具象成形——若放任其堆积，将十分危险。"
+  ]
+ },
+ "intro_4": {
+  "english": "Safety laws are enforced preventing individuals from building certain types of magical contraptions without a license and proper supervision.",
+  "中文": "安全法规强制规定：任何人若未取得执照并接受正规监管，不得制造特定类型的魔法机关。"
+ },
+ "intro_5": {
+  "english": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "Specialists called ",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "Technicians",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   " are trained and sent to regularly maintain and negate all types of data anomalies."
+  ],
+  "中文": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "一类被称为",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "技师",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "的专家会受训并被派往各地，定期维护并消除各类数据异常。"
+  ]
+ },
+ "intro_6": {
+  "english": "Optimal programs and scripts create minimal build-up, but most scripts used by common citizens are not very well written and can cause a lot of junk data if unattended.",
+  "中文": "最优化的程序与脚本几乎不产生残留，但普通民众使用的大多数脚本都编写得相当拙劣，一旦无人看管，便会催生大量垃圾数据。"
+ },
+ "intro_7": {
+  "english": "Due to the skill involved, Technicians are relatively high in demand.",
+  "中文": "由于技术要求较高，技师始终供不应求。"
+ },
+ "intro_8": {
+  "english": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "Recently, a small Technician group called ",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "Blue Revolver",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   " has been on the rise with their high end tools known as ",
+   [
+    0.85490196078431,
+    0.83137254901961,
+    0.36862745098039
+   ],
+   "\"Devices\"",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "."
+  ],
+  "中文": [
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "近来，一个名为",
+   [
+    0.42745098039216,
+    0.76078431372549,
+    0.7921568627451
+   ],
+   "Blue Revolver",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "的小型技师团体开始崭露头角，他们凭借名为",
+   [
+    0.85490196078431,
+    0.83137254901961,
+    0.36862745098039
+   ],
+   "「Device」",
+   [
+    0.87058823529412,
+    0.93333333333333,
+    0.83921568627451
+   ],
+   "的高阶工具大放异彩。"
+  ]
+ },
+ "intro_9": {
+  "english": "These magical remote controls can channel complex, dynamic AI scripts into slave machines.",
+  "中文": "这种魔法遥控器能将复杂、动态的 AI 脚本注入从属机器。"
+ },
+ "intro_timings": {
+  "english": [
+   4,
+   5.5,
+   5.5,
+   7.5,
+   4.5,
+   5.5,
+   4,
+   4.5,
+   3.5,
+   4,
+   3.5,
+   4,
+   3.5,
+   3.5
+  ]
+ },
+ "leaderboard_ask_retry": {
+  "english": "Retry?",
+  "中文": "重试？"
+ },
+ "leaderboard_ask_submit": {
+  "english": "Submit to leaderboard?",
+  "中文": "提交到排行榜？"
+ },
+ "leaderboard_submit_success": {
+  "english": "Successfully submitted.",
+  "中文": "提交成功。"
+ },
+ "leaderboard_submitting": {
+  "english": "Submitting...",
+  "中文": "提交中……"
+ },
+ "leaderboards_download_replay": {
+  "english": "Download replay?",
+  "中文": "下载回放？"
+ },
+ "leaderboards_filter_friends": {
+  "english": "Friends",
+  "中文": "好友"
+ },
+ "leaderboards_filter_global": {
+  "english": "Global",
+  "中文": "全球"
+ },
+ "leaderboards_filter_me": {
+  "english": "My Score",
+  "中文": "我的分数"
+ },
+ "leaderboards_finished_downloading_replay": {
+  "english": "Finished downloading replay. You can find it in the Replays menu.",
+  "中文": "回放下载完成。你可以在回放菜单中找到它。"
+ },
+ "mae_ending_1": {
+  "english": "MAE: What's going on? Why won't my Device respond?",
+  "中文": "MAE：怎么回事？为什么我的 Device 没有反应？"
+ },
+ "mae_ending_10": {
+  "english": "???: Shut up! That's not what she's saying at all!",
+  "中文": "？？？：住口！她根本不是那个意思！"
+ },
+ "mae_ending_11": {
+  "english": "MAE: Oof!",
+  "中文": "MAE：呜哇！"
+ },
+ "mae_ending_12": {
+  "english": "VAL: This is about safety! We didn't fly all the way out here just to step on your hobbies. What part of that do you not understand?!",
+  "中文": "VAL：这是为了安全！我们大老远飞过来，可不是为了践踏你的爱好。这一点你怎么就是不明白呢？！"
+ },
+ "mae_ending_13": {
+  "english": "MAE: ... ... ...",
+  "中文": "MAE：……"
+ },
+ "mae_ending_14": {
+  "english": "MAE: I... I didn't mean to hurt anybody...",
+  "中文": "MAE：我……我并不是存心想伤害谁……"
+ },
+ "mae_ending_15": {
+  "english": "DEE: Val, that's enough. Mae, if you're willing to listen, then I can teach you a few things about building efficiently so you don't make the same mistake twice.",
+  "中文": "DEE：Val，够了。Mae，如果你愿意听，我可以教你几手高效建造的门道，让你不会再犯同样的错误。"
+ },
+ "mae_ending_16": {
+  "english": "DEE: You just have to promise us that you'll stop living recklessly like this and obey the law from now on.",
+  "中文": "DEE：你只要向我们保证，今后不再这样不顾死活地莽撞行事，并且遵守法律。"
+ },
+ "mae_ending_17": {
+  "english": "Despite Dee's assistance, Mae eventually gave up on ambitious building projects and instead decided to pursue life as a freelance designer for Technicians.",
+  "中文": "尽管有 Dee 的帮助，Mae 最终还是放弃了野心勃勃的建造计划，转而决定做一名服务于技师们的自由设计师。"
+ },
+ "mae_ending_18": {
+  "english": "MAE: Come on Dee, it's not like your lessons have gone to waste... You just helped me realize that it's easier to let other people do the dirty work for me!",
+  "中文": "MAE：行了行了 Dee，你的教导也没白费嘛……你只是让我明白了，把脏活累活丢给别人干，可轻松多了！"
+ },
+ "mae_ending_19": {
+  "english": "VAL: That's one way of putting it.",
+  "中文": "VAL：倒也是种说法。"
+ },
+ "mae_ending_2": {
+  "english": "DEE (sound only): That's not a real Device. You may act like a creative genius, but you clearly lack the ability to actually build these things.",
+  "中文": "DEE（画外音）：那可不是真正的 Device。你可以自认为是创意天才，但显然没有把它真正造出来的本事。"
+ },
+ "mae_ending_20": {
+  "english": "DEE: I've never met anyone so stubborn in my life...",
+  "中文": "DEE：我这辈子都没见过这么固执的人……"
+ },
+ "mae_ending_21": {
+  "english": "END",
+  "中文": "END"
+ },
+ "mae_ending_3": {
+  "english": "DEE (sound only): I'm sure our other members have told you many times before, but attempting to create something of this caliber without consent and proper supervision is against the law.",
+  "中文": "DEE（画外音）：我相信其他成员已经提醒过你很多次了——未经许可、缺少正规监管就试图制造这种水平的东西，是违法的。"
+ },
+ "mae_ending_4": {
+  "english": "MAE: Well, what do you want from me! I don't want to work with other people, and I sure don't like strangers telling me what I can and can't do!",
+  "中文": "MAE：那你们想让我怎么样嘛！我不想和别人合作，也讨厌陌生人对我指手画脚！"
+ },
+ "mae_ending_5": {
+  "english": "DEE: Mae, this isn't something you can afford to be selfish about.",
+  "中文": "DEE：Mae，这件事由不得你任性。"
+ },
+ "mae_ending_6": {
+  "english": "DEE: Look around you! There's nothing normal about the environment or your Device's condition.",
+  "中文": "DEE：看看你的周围！这里的环境和你 Device 的状态，没有一处是正常的。"
+ },
+ "mae_ending_7": {
+  "english": "DEE: More importantly, the result of your carelessness was putting everyone's lives at risk; we had no choice but to do something.",
+  "中文": "DEE：更重要的是，你的疏忽大意让所有人的性命都陷入了危险。我们别无选择，只能出手。"
+ },
+ "mae_ending_8": {
+  "english": "MAE: So what? Are you telling me I should just stop building things because I'm not good at it?",
+  "中文": "MAE：所以呢？你是说就因为我做不好，就应该干脆别再造东西了吗？"
+ },
+ "mae_ending_9": {
+  "english": "MAE: You're insane! Your whole team is crazy!",
+  "中文": "MAE：你们疯了！你们整支队伍都疯了！"
+ },
+ "mae_ending_timings": {
+  "english": [
+   3,
+   5,
+   6,
+   5,
+   3,
+   3.5,
+   4,
+   3.5,
+   3.5,
+   3,
+   2.5,
+   4.5,
+   2,
+   3.5,
+   5,
+   4,
+   6,
+   5,
+   3,
+   3.5,
+   8
+  ]
+ },
+ "mainmenu_extras": {
+  "english": "Extras",
+  "中文": "附加内容"
+ },
+ "mainmenu_highscores": {
+  "english": "Highscores",
+  "中文": "最高分"
+ },
+ "mainmenu_missions": {
+  "english": "Missions",
+  "中文": "任务"
+ },
+ "mainmenu_options": {
+  "english": "Options",
+  "中文": "设置"
+ },
+ "mainmenu_play": {
+  "english": "Play",
+  "中文": "开始游戏"
+ },
+ "mainmenu_quit": {
+  "english": "Quit",
+  "中文": "退出"
+ },
+ "mainmenu_stageselect": {
+  "english": "Stage Select",
+  "中文": "关卡选择"
+ },
+ "mainmenu_unlocks": {
+  "english": "Unlocks",
+  "中文": "解锁内容"
+ },
+ "mainmenu_xmode": {
+  "english": "Play XP-Mode",
+  "中文": "游玩 XP 模式"
+ },
+ "medal_goal_clear": {
+  "english": "Clear the game!",
+  "中文": "通关游戏！"
+ },
+ "medal_goal_clear_parallel": {
+  "english": "Clear on Parallel!",
+  "中文": "以平行模式通关！"
+ },
+ "medal_goal_complete": {
+  "english": "All goals achieved!",
+  "中文": "达成全部目标！"
+ },
+ "medal_goal_score_target": {
+  "english": "Score %s and clear!",
+  "中文": "取得 %s 分并通关！"
+ },
+ "menu_extras_breakguide": {
+  "english": "Break Guide",
+  "中文": "Break 指南"
+ },
+ "menu_extras_completion": {
+  "english": "Completion Rate",
+  "中文": "完成度"
+ },
+ "menu_extras_completion_clears": {
+  "english": "Clear Medals",
+  "中文": "通关奖章"
+ },
+ "menu_extras_completion_mission_clears": {
+  "english": "Mission Clears",
+  "中文": "任务通关"
+ },
+ "menu_extras_completion_mission_medals": {
+  "english": "Mission Medals",
+  "中文": "任务奖章"
+ },
+ "menu_extras_completion_parallel_clears": {
+  "english": "Parallel Clear Medals",
+  "中文": "平行通关奖章"
+ },
+ "menu_extras_completion_score_medals": {
+  "english": "Score Medals",
+  "中文": "分数奖章"
+ },
+ "menu_extras_completion_shop_unlocks": {
+  "english": "Shop Unlocks",
+  "中文": "商店解锁"
+ },
+ "menu_extras_completion_xmode_clears": {
+  "english": "XP-Mode Medals",
+  "中文": "XP 模式奖章"
+ },
+ "menu_extras_credits": {
+  "english": "Credits",
+  "中文": "制作人员"
+ },
+ "menu_extras_credits_parallel": {
+  "english": "Credits (Parallel)",
+  "中文": "制作人员（平行）"
+ },
+ "menu_extras_cutscenes": {
+  "english": "Cutscenes",
+  "中文": "过场动画"
+ },
+ "menu_extras_dee_ending": {
+  "english": "Ending (Dee)",
+  "中文": "结局（Dee）"
+ },
+ "menu_extras_gallery": {
+  "english": "Gallery",
+  "中文": "画廊"
+ },
+ "menu_extras_highscores": {
+  "english": "Highscores",
+  "中文": "最高分"
+ },
+ "menu_extras_intro": {
+  "english": "Intro",
+  "中文": "开场动画"
+ },
+ "menu_extras_leaderboards": {
+  "english": "Leaderboards",
+  "中文": "排行榜"
+ },
+ "menu_extras_mae_ending": {
+  "english": "Ending (Mae)",
+  "中文": "结局（Mae）"
+ },
+ "menu_extras_musicroom": {
+  "english": "Music Room",
+  "中文": "音乐室"
+ },
+ "menu_extras_replays": {
+  "english": "Replays",
+  "中文": "回放"
+ },
+ "menu_extras_tutorial_basics": {
+  "english": "Tutorial (Basics)",
+  "中文": "教程（基础）"
+ },
+ "menu_extras_tutorial_hyper": {
+  "english": "Tutorial (Hyper)",
+  "中文": "教程（狂热）"
+ },
+ "menu_extras_tutorial_scoring": {
+  "english": "Tutorial (Scoring)",
+  "中文": "教程（计分）"
+ },
+ "menu_extras_tutorial_xmode": {
+  "english": "Tutorial (XP-Mode)",
+  "中文": "教程（XP 模式）"
+ },
+ "menu_extras_tutorials": {
+  "english": "Tutorials",
+  "中文": "教程"
+ },
+ "menu_extras_val_ending": {
+  "english": "Ending (Val)",
+  "中文": "结局（Val）"
+ },
+ "menu_extras_xmode_ending": {
+  "english": "Ending (XP-Mode)",
+  "中文": "结局（XP 模式）"
+ },
+ "menu_gallery_comment_charale": {
+  "english": "Ale"
+ },
+ "menu_gallery_comment_chardee": {
+  "english": "Dee"
+ },
+ "menu_gallery_comment_chardon": {
+  "english": "Don"
+ },
+ "menu_gallery_comment_charira": {
+  "english": "Ira"
+ },
+ "menu_gallery_comment_charrum": {
+  "english": "Rum"
+ },
+ "menu_gallery_comment_charval": {
+  "english": "Val"
+ },
+ "menu_gallery_comment_concept1": {
+  "english": "Scrapped gallery piece",
+  "中文": "被废弃的画廊作品"
+ },
+ "menu_gallery_comment_concept2": {
+  "english": "Mae's initial design",
+  "中文": "Mae 的初期设计"
+ },
+ "menu_gallery_comment_concept3": {
+  "english": "Initial protagonists",
+  "中文": "初期主角阵容"
+ },
+ "menu_gallery_comment_concept4": {
+  "english": "Initial boss roster",
+  "中文": "初期 BOSS 阵容"
+ },
+ "menu_gallery_comment_extra3": {
+  "english": "Momobako (Announcer / Mae's VA)",
+  "中文": "Momobako（播报员 / Mae 配音）"
+ },
+ "menu_gallery_comment_extra4": {
+  "english": "Nayuki Yuzu (Announcer / Val's VA)",
+  "中文": "Nayuki Yuzu（播报员 / Val 配音）"
+ },
+ "menu_gallery_comment_promo1": {
+  "english": "For v0.5 release",
+  "中文": "用于 v0.5 版本发布"
+ },
+ "menu_gallery_comment_promo4": {
+  "english": "For v0.5 hiscore challenge",
+  "中文": "用于 v0.5 高分挑战"
+ },
+ "menu_gallery_credit": {
+  "english": "by %s",
+  "中文": "作者：%s"
+ },
+ "menu_music_boss": {
+  "english": "Boss",
+  "中文": "BOSS"
+ },
+ "menu_music_challenge": {
+  "english": "Special Stage",
+  "中文": "特殊关卡"
+ },
+ "menu_music_ending": {
+  "english": "Ending",
+  "中文": "结局"
+ },
+ "menu_music_finalboss1": {
+  "english": "Final Boss A",
+  "中文": "最终BOSS A"
+ },
+ "menu_music_finalboss2": {
+  "english": "True Boss",
+  "中文": "真BOSS"
+ },
+ "menu_music_interlude": {
+  "english": "Credits",
+  "中文": "制作人员"
+ },
+ "menu_music_nameentry": {
+  "english": "Name Entry",
+  "中文": "名字输入"
+ },
+ "menu_music_shipselect": {
+  "english": "Ship Select",
+  "中文": "机体选择"
+ },
+ "menu_music_stage1": {
+  "english": "Stage 1",
+  "中文": "第 1 关"
+ },
+ "menu_music_stage2": {
+  "english": "Stage 2",
+  "中文": "第 2 关"
+ },
+ "menu_music_stage3": {
+  "english": "Stage 3",
+  "中文": "第 3 关"
+ },
+ "menu_music_stage4": {
+  "english": "Stage 4",
+  "中文": "第 4 关"
+ },
+ "menu_music_stage5": {
+  "english": "Stage 5",
+  "中文": "第 5 关"
+ },
+ "menu_music_stagecomplete": {
+  "english": "Complete",
+  "中文": "通关"
+ },
+ "menu_music_title": {
+  "english": "Title",
+  "中文": "标题"
+ },
+ "menu_options_aghast": {
+  "english": "Aghast",
+  "中文": "Aghast"
+ },
+ "menu_options_akinola": {
+  "english": "Akinola",
+  "中文": "Akinola"
+ },
+ "menu_options_all_controllers": {
+  "english": "Any",
+  "中文": "任意"
+ },
+ "menu_options_ammo": {
+  "english": "Ammo",
+  "中文": "弹药"
+ },
+ "menu_options_announcer": {
+  "english": "Announcer",
+  "中文": "播报员"
+ },
+ "menu_options_apply_display": {
+  "english": "Apply Video Settings",
+  "中文": "应用画面设置"
+ },
+ "menu_options_aspectratio": {
+  "english": "Aspect Ratio",
+  "中文": "画面比例"
+ },
+ "menu_options_audio": {
+  "english": "Audio",
+  "中文": "音频"
+ },
+ "menu_options_axis": {
+  "english": "Axis %d",
+  "中文": "轴 %d"
+ },
+ "menu_options_backgroundbrightness": {
+  "english": "Background Brightness",
+  "中文": "背景亮度"
+ },
+ "menu_options_backgroundsaturation": {
+  "english": "Background Saturation",
+  "中文": "背景饱和度"
+ },
+ "menu_options_bluephoenix": {
+  "english": "Blue Phoenix",
+  "中文": "Blue Phoenix"
+ },
+ "menu_options_bomb": {
+  "english": "Bomb",
+  "中文": "炸弹"
+ },
+ "menu_options_borderless": {
+  "english": "Borderless",
+  "中文": "无边框"
+ },
+ "menu_options_bosstheme": {
+  "english": "Boss",
+  "中文": "BOSS"
+ },
+ "menu_options_bulletcolors": {
+  "english": "Bullet Colors",
+  "中文": "弹幕颜色"
+ },
+ "menu_options_bulletcolors_alternate": {
+  "english": "Alternate",
+  "中文": "替换"
+ },
+ "menu_options_bulletcolors_custom": {
+  "english": "Custom",
+  "中文": "自定义"
+ },
+ "menu_options_bulletcolors_custom1blue": {
+  "english": "Color 1 Blue",
+  "中文": "颜色1 蓝"
+ },
+ "menu_options_bulletcolors_custom1green": {
+  "english": "Color 1 Green",
+  "中文": "颜色1 绿"
+ },
+ "menu_options_bulletcolors_custom1red": {
+  "english": "Color 1 Red",
+  "中文": "颜色1 红"
+ },
+ "menu_options_bulletcolors_custom2blue": {
+  "english": "Color 2 Blue",
+  "中文": "颜色2 蓝"
+ },
+ "menu_options_bulletcolors_custom2green": {
+  "english": "Color 2 Green",
+  "中文": "颜色2 绿"
+ },
+ "menu_options_bulletcolors_custom2red": {
+  "english": "Color 2 Red",
+  "中文": "颜色2 红"
+ },
+ "menu_options_bulletcolors_original": {
+  "english": "Original",
+  "中文": "原版"
+ },
+ "menu_options_bulletglow": {
+  "english": "Bullet Glow",
+  "中文": "弹幕光晕"
+ },
+ "menu_options_button": {
+  "english": "Button %d",
+  "中文": "按钮 %d"
+ },
+ "menu_options_cheats": {
+  "english": "Cheats",
+  "中文": "秘技"
+ },
+ "menu_options_clearshot": {
+  "english": "Transparent Player Bullets",
+  "中文": "自机子弹透明化"
+ },
+ "menu_options_clockwise": {
+  "english": "Clockwise",
+  "中文": "顺时针"
+ },
+ "menu_options_confirm": {
+  "english": "Confirm",
+  "中文": "确认"
+ },
+ "menu_options_controller": {
+  "english": "Joypad",
+  "中文": "手柄"
+ },
+ "menu_options_counterclockwise": {
+  "english": "Counter-Clockwise",
+  "中文": "逆时针"
+ },
+ "menu_options_credits": {
+  "english": "Credits",
+  "中文": "制作人员"
+ },
+ "menu_options_display": {
+  "english": "Display",
+  "中文": "显示"
+ },
+ "menu_options_doubleaction": {
+  "english": "Double Action"
+ },
+ "menu_options_down": {
+  "english": "Down",
+  "中文": "下"
+ },
+ "menu_options_downleft": {
+  "english": "Down-Left",
+  "中文": "左下"
+ },
+ "menu_options_downright": {
+  "english": "Down-Right",
+  "中文": "右下"
+ },
+ "menu_options_exemia": {
+  "english": "Exemia",
+  "中文": "Exemia"
+ },
+ "menu_options_exemia_maddrift": {
+  "english": "Exemia+MadDrift",
+  "中文": "Exemia+MadDrift"
+ },
+ "menu_options_credits_doubleaction": {
+  "english": "By Hagane & Exemia",
+  "中文": "作者：Hagane & Exemia"
+ },
+ "menu_options_credits_original": {
+  "english": "By Qygen",
+  "中文": "作者：Qygen"
+ },
+ "menu_options_filter": {
+  "english": "Filter",
+  "中文": "滤镜"
+ },
+ "menu_options_fire": {
+  "english": "Fire",
+  "中文": "开火"
+ },
+ "menu_options_flashfrequency": {
+  "english": "Damage Flash Frequency",
+  "中文": "受击闪光频率"
+ },
+ "menu_options_framerate": {
+  "english": "Framerate",
+  "中文": "帧率"
+ },
+ "menu_options_freeplay": {
+  "english": "Free Play",
+  "中文": "自由模式"
+ },
+ "menu_options_fullscreen": {
+  "english": "Fullscreen",
+  "中文": "全屏"
+ },
+ "menu_options_gadgets": {
+  "english": "Gadgets",
+  "中文": "组件"
+ },
+ "menu_options_gadgets_message": {
+  "english": "This feature is intended for large, high-resolution displays.",
+  "中文": "此功能面向大型高分辨率显示器。"
+ },
+ "menu_options_gameplay": {
+  "english": "Gameplay",
+  "中文": "玩法"
+ },
+ "menu_options_graphics": {
+  "english": "Graphics",
+  "中文": "画面"
+ },
+ "menu_options_graphicsmode": {
+  "english": "Mode",
+  "中文": "模式"
+ },
+ "menu_options_hat": {
+  "english": "Hat %d",
+  "中文": "十字键 %d"
+ },
+ "menu_options_hyphen": {
+  "english": "Hyphen",
+  "中文": "Hyphen"
+ },
+ "menu_options_ikaruga": {
+  "english": "ikaruga_nex",
+  "中文": "ikaruga_nex"
+ },
+ "menu_options_input": {
+  "english": "Input",
+  "中文": "输入"
+ },
+ "menu_options_insane": {
+  "english": "Insane!",
+  "中文": "强制拉伸"
+ },
+ "menu_options_language": {
+  "english": "Language",
+  "中文": "语言"
+ },
+ "menu_options_lastbosstheme": {
+  "english": "Last Boss",
+  "中文": "最终BOSS"
+ },
+ "menu_options_left": {
+  "english": "Left",
+  "中文": "左"
+ },
+ "menu_options_legibility": {
+  "english": "Legibility",
+  "中文": "易读性"
+ },
+ "menu_options_mastervolume": {
+  "english": "Master Volume",
+  "中文": "主音量"
+ },
+ "menu_options_menutheme": {
+  "english": "Menu",
+  "中文": "菜单"
+ },
+ "menu_options_mitomoro": {
+  "english": "Mitomoro",
+  "中文": "Mitomoro"
+ },
+ "menu_options_mixwallpaper": {
+  "english": "Mix",
+  "中文": "混合"
+ },
+ "menu_options_momobako": {
+  "english": "Mae (CV: Momobako)",
+  "中文": "Mae（CV：Momobako）"
+ },
+ "menu_options_musicvolume": {
+  "english": "Music Volume",
+  "中文": "音乐音量"
+ },
+ "menu_options_nameentrytheme": {
+  "english": "Name Entry",
+  "中文": "名字输入"
+ },
+ "menu_options_nativeratio": {
+  "english": "3:4 (Native)",
+  "中文": "3:4（原生）"
+ },
+ "menu_options_nayuki": {
+  "english": "Val (CV: Nayuki Yuzu)",
+  "中文": "Val（CV：Nayuki Yuzu）"
+ },
+ "menu_options_no_controller": {
+  "english": "None",
+  "中文": "无"
+ },
+ "menu_options_noannouncer": {
+  "english": "None",
+  "中文": "无"
+ },
+ "menu_options_norotation": {
+  "english": "None",
+  "中文": "无"
+ },
+ "menu_options_nowallpaper": {
+  "english": "None",
+  "中文": "无"
+ },
+ "menu_options_palettes": {
+  "english": "Palettes",
+  "中文": "配色"
+ },
+ "menu_options_pause": {
+  "english": "Pause",
+  "中文": "暂停"
+ },
+ "menu_options_perfect": {
+  "english": "Perfect",
+  "中文": "整数倍"
+ },
+ "menu_options_proportionate": {
+  "english": "Proportionate",
+  "中文": "等比适配"
+ },
+ "menu_options_qygen": {
+  "english": "Original",
+  "中文": "原版"
+ },
+ "menu_options_rank": {
+  "english": "Rank",
+  "中文": "Rank"
+ },
+ "menu_options_rapidfire": {
+  "english": "Rapid-Fire",
+  "中文": "速射"
+ },
+ "menu_options_rebindcontrols": {
+  "english": "Rebind Controls",
+  "中文": "重新绑定按键"
+ },
+ "menu_options_reduceflashintensity": {
+  "english": "Reduce Flash Intensity",
+  "中文": "减弱闪光强度"
+ },
+ "menu_options_resetachievements": {
+  "english": "Reset Steam achievements",
+  "中文": "重置 Steam 成就"
+ },
+ "menu_options_resetconfig": {
+  "english": "Reset Config",
+  "中文": "重置设置"
+ },
+ "menu_options_resetcontrols": {
+  "english": "Reset Controls",
+  "中文": "重置按键"
+ },
+ "menu_options_resetsavefile": {
+  "english": "Reset Save File",
+  "中文": "重置存档"
+ },
+ "menu_options_resolution": {
+  "english": "Resolution",
+  "中文": "分辨率"
+ },
+ "menu_options_right": {
+  "english": "Right",
+  "中文": "右"
+ },
+ "menu_options_rotation": {
+  "english": "Rotation",
+  "中文": "旋转"
+ },
+ "menu_options_rottking": {
+  "english": "Rottking",
+  "中文": "Rottking"
+ },
+ "menu_options_ruleset": {
+  "english": "Ruleset",
+  "中文": "规则集"
+ },
+ "menu_options_ruleset_classic": {
+  "english": "Classic",
+  "中文": "经典"
+ },
+ "menu_options_ruleset_classic_desc": {
+  "english": "v1.11 style gameplay. Alters flourish timings, shot power, bomb mechanics, scoring mechanics and more. Not identical to v1.11. Intended for long-time players.",
+  "中文": "v1.11 风格的玩法。改变了 Flourish 时机、射击威力、炸弹与计分机制等。与 v1.11 并不完全相同。面向老玩家。"
+ },
+ "menu_options_ruleset_doubleaction": {
+  "english": "Double Action",
+  "中文": "Double Action"
+ },
+ "menu_options_savefile": {
+  "english": "Save File",
+  "中文": "存档"
+ },
+ "menu_options_scaling": {
+  "english": "Scaling",
+  "中文": "缩放"
+ },
+ "menu_options_scoringinfo": {
+  "english": "Scoring Info",
+  "中文": "计分信息"
+ },
+ "menu_options_screen": {
+  "english": "Screen",
+  "中文": "屏幕"
+ },
+ "menu_options_showfps": {
+  "english": "Show FPS",
+  "中文": "显示 FPS"
+ },
+ "menu_options_showgadgets": {
+  "english": "Gadgets",
+  "中文": "显示组件"
+ },
+ "menu_options_showhitboxes": {
+  "english": "Show Hitboxes",
+  "中文": "显示判定框"
+ },
+ "menu_options_skipintro": {
+  "english": "Skip Intro",
+  "中文": "跳过开场动画"
+ },
+ "menu_options_soundtrack": {
+  "english": "Soundtrack",
+  "中文": "配乐"
+ },
+ "menu_options_soundvolume": {
+  "english": "Sound Volume",
+  "中文": "音效音量"
+ },
+ "menu_options_announcervolume": {
+  "english": "Announcer Volume",
+  "中文": "播报员音量"
+ },
+ "menu_options_special": {
+  "english": "Special",
+  "中文": "特殊"
+ },
+ "menu_options_specialstagetheme": {
+  "english": "Special",
+  "中文": "特殊关卡"
+ },
+ "menu_options_st1theme": {
+  "english": "Stage 1",
+  "中文": "第 1 关"
+ },
+ "menu_options_st2theme": {
+  "english": "Stage 2",
+  "中文": "第 2 关"
+ },
+ "menu_options_st3theme": {
+  "english": "Stage 3",
+  "中文": "第 3 关"
+ },
+ "menu_options_st4theme": {
+  "english": "Stage 4",
+  "中文": "第 4 关"
+ },
+ "menu_options_st5theme": {
+  "english": "Stage 5",
+  "中文": "第 5 关"
+ },
+ "menu_options_terranaut": {
+  "english": "Terranaut",
+  "中文": "Terranaut"
+ },
+ "menu_options_topbar_extend": {
+  "english": "Extend",
+  "中文": "奖命"
+ },
+ "menu_options_topbardisplay": {
+  "english": "Top Bar Display",
+  "中文": "顶栏显示"
+ },
+ "menu_options_transparentscoreitems": {
+  "english": "Transparent Score Items",
+  "中文": "分数道具透明化"
+ },
+ "menu_options_unlockeverything": {
+  "english": "Unlock Everything",
+  "中文": "解锁全部内容"
+ },
+ "menu_options_up": {
+  "english": "Up",
+  "中文": "上"
+ },
+ "menu_options_upleft": {
+  "english": "Up-Left",
+  "中文": "左上"
+ },
+ "menu_options_upright": {
+  "english": "Up-Right",
+  "中文": "右上"
+ },
+ "menu_options_vsync": {
+  "english": "V-Sync",
+  "中文": "垂直同步"
+ },
+ "menu_options_wallpaper": {
+  "english": "Wallpaper",
+  "中文": "壁纸"
+ },
+ "menu_options_wallpapermix1": {
+  "english": "Wallpaper Mix 1",
+  "中文": "壁纸混合 1"
+ },
+ "menu_options_wallpapermix2": {
+  "english": "Wallpaper Mix 2",
+  "中文": "壁纸混合 2"
+ },
+ "menu_options_windowed": {
+  "english": "Windowed",
+  "中文": "窗口化"
+ },
+ "menu_replay_delete": {
+  "english": "Delete Replay",
+  "中文": "删除回放"
+ },
+ "menu_replay_noreplays": {
+  "english": "No replays found.",
+  "中文": "未找到回放。"
+ },
+ "menu_stageselect_aftermidboss": {
+  "english": "After Midboss",
+  "中文": "中BOSS之后"
+ },
+ "menu_stageselect_bombs": {
+  "english": "Bombs",
+  "中文": "炸弹"
+ },
+ "menu_stageselect_lives": {
+  "english": "Lives",
+  "中文": "生命"
+ },
+ "menu_stageselect_boss": {
+  "english": "Boss",
+  "中文": "BOSS"
+ },
+ "menu_stageselect_character": {
+  "english": "Character",
+  "中文": "角色"
+ },
+ "menu_stageselect_cluster": {
+  "english": "Cluster Missile"
+ },
+ "menu_stageselect_dee": {
+  "english": "Dee"
+ },
+ "menu_stageselect_descent": {
+  "english": "Descent",
+  "中文": "俯冲"
+ },
+ "menu_stageselect_difficulty": {
+  "english": "Mode",
+  "中文": "模式"
+ },
+ "menu_stageselect_freezerank": {
+  "english": "Freeze Rank",
+  "中文": "固定 Rank"
+ },
+ "menu_stageselect_hypermode": {
+  "english": "Hyper",
+  "中文": "狂热"
+ },
+ "menu_stageselect_lancer": {
+  "english": "Plasma Lancer"
+ },
+ "menu_stageselect_laser": {
+  "english": "Hyper Laser"
+ },
+ "menu_stageselect_lightning": {
+  "english": "Arc Caster"
+ },
+ "menu_stageselect_mae": {
+  "english": "Mae"
+ },
+ "menu_stageselect_midboss": {
+  "english": "Midboss",
+  "中文": "中BOSS"
+ },
+ "menu_stageselect_midboss1": {
+  "english": "Midboss 1",
+  "中文": "中BOSS 1"
+ },
+ "menu_stageselect_midboss2": {
+  "english": "Midboss 2",
+  "中文": "中BOSS 2"
+ },
+ "menu_stageselect_midboss3": {
+  "english": "Midboss 3",
+  "中文": "中BOSS 3"
+ },
+ "menu_stageselect_midboss4": {
+  "english": "Midboss 4",
+  "中文": "中BOSS 4"
+ },
+ "menu_stageselect_normalmode": {
+  "english": "Normal",
+  "中文": "普通"
+ },
+ "menu_stageselect_parallelmode": {
+  "english": "Parallel",
+  "中文": "平行"
+ },
+ "menu_stageselect_pierce": {
+  "english": "Pierce Lancer"
+ },
+ "menu_stageselect_rank": {
+  "english": "Rank",
+  "中文": "Rank"
+ },
+ "menu_stageselect_salvo": {
+  "english": "Fractal Salvo"
+ },
+ "menu_stageselect_shield": {
+  "english": "Gun Buckler"
+ },
+ "menu_stageselect_special": {
+  "english": "Special",
+  "中文": "特殊"
+ },
+ "menu_stageselect_stage": {
+  "english": "Stage",
+  "中文": "关卡"
+ },
+ "menu_stageselect_stage1": {
+  "english": "Stage 1 [MOUNTAIN]",
+  "中文": "第 1 关【山地】"
+ },
+ "menu_stageselect_stage2": {
+  "english": "Stage 2 [HARBOUR]",
+  "中文": "第 2 关【港湾】"
+ },
+ "menu_stageselect_stage3": {
+  "english": "Stage 3 [CLOUD]",
+  "中文": "第 3 关【云海】"
+ },
+ "menu_stageselect_stage4": {
+  "english": "Stage 4 [BASE]",
+  "中文": "第 4 关【基地】"
+ },
+ "menu_stageselect_stage5": {
+  "english": "Stage 5 [DREAM]",
+  "中文": "第 5 关【梦境】"
+ },
+ "menu_stageselect_stagestart": {
+  "english": "Start",
+  "中文": "开始"
+ },
+ "menu_stageselect_start": {
+  "english": "Start",
+  "中文": "开始"
+ },
+ "menu_stageselect_startfrom": {
+  "english": "Start from",
+  "中文": "起始位置"
+ },
+ "menu_stageselect_stasis": {
+  "english": "Stasis Field"
+ },
+ "menu_stageselect_truelastboss": {
+  "english": "True Last Boss",
+  "中文": "真最终BOSS"
+ },
+ "menu_stageselect_val": {
+  "english": "Val"
+ },
+ "menu_stageselect_vortex": {
+  "english": "Vortex Barrier"
+ },
+ "menu_stageselect_xmode": {
+  "english": "XP-Mode",
+  "中文": "XP 模式"
+ },
+ "menu_unlocks_filter_description": {
+  "english": "A \"%s\" screen filter.",
+  "中文": "「%s」画面滤镜。"
+ },
+ "menu_unlocks_gallery": {
+  "english": "Gallery\nArt",
+  "中文": "画廊\n画作"
+ },
+ "menu_unlocks_gallery_generic_description": {
+  "english": "An art piece by %s. Can be used as game wallpaper.",
+  "中文": "%s 的画作。可用作游戏壁纸。"
+ },
+ "menu_unlocks_need_adjacent": {
+  "english": "You need an adjacent item first...",
+  "中文": "需要先解锁相邻的项目……"
+ },
+ "menu_unlocks_palette": {
+  "english": "Device\nPalette",
+  "中文": "Device\n配色"
+ },
+ "menu_unlocks_palette_dee_description": {
+  "english": "An alternate palette for Dee's device.",
+  "中文": "Dee 的 Device 备用配色。"
+ },
+ "menu_unlocks_palette_mae_description": {
+  "english": "An alternate palette for Mae's device.",
+  "中文": "Mae 的 Device 备用配色。"
+ },
+ "menu_unlocks_palette_val_description": {
+  "english": "An alternate palette for Val's device.",
+  "中文": "Val 的 Device 备用配色。"
+ },
+ "menu_unlocks_presstolisten": {
+  "english": "Press RAPID FIRE to listen",
+  "中文": "按速射键试听"
+ },
+ "menu_unlocks_remix": {
+  "english": "Remix\nTrack",
+  "中文": "混音\n曲目"
+ },
+ "menu_unlocks_remix_10_description": {
+  "english": "A last boss remix, by Aghast.",
+  "中文": "最终BOSS曲混音版，作者 Aghast。"
+ },
+ "menu_unlocks_remix_11_description": {
+  "english": "A name entry remix, by Blue Phoenix.",
+  "中文": "名字输入曲混音版，作者 Blue Phoenix。"
+ },
+ "menu_unlocks_remix_12_description": {
+  "english": "A special stage remix, by Blue Phoenix.",
+  "中文": "特殊关卡曲混音版，作者 Blue Phoenix。"
+ },
+ "menu_unlocks_remix_13_description": {
+  "english": "A credits remix, by Blue Phoenix.",
+  "中文": "制作人员曲混音版，作者 Blue Phoenix。"
+ },
+ "menu_unlocks_remix_1_description": {
+  "english": "A menu remix, by Exemia.",
+  "中文": "菜单曲混音版，作者 Exemia。"
+ },
+ "menu_unlocks_remix_2_description": {
+  "english": "A stage 1 remix, by Terranaut.",
+  "中文": "第 1 关曲目混音版，作者 Terranaut。"
+ },
+ "menu_unlocks_remix_3_description": {
+  "english": "A stage 1 remix, by Blue Phoenix.",
+  "中文": "第 1 关曲目混音版，作者 Blue Phoenix。"
+ },
+ "menu_unlocks_remix_4_description": {
+  "english": "A stage 2 remix, by Mitomoro.",
+  "中文": "第 2 关曲目混音版，作者 Mitomoro。"
+ },
+ "menu_unlocks_remix_5_description": {
+  "english": "A stage 2 remix, by Terranaut.",
+  "中文": "第 2 关曲目混音版，作者 Terranaut。"
+ },
+ "menu_unlocks_remix_6_description": {
+  "english": "A stage 3 remix, by Exemia.",
+  "中文": "第 3 关曲目混音版，作者 Exemia。"
+ },
+ "menu_unlocks_remix_7_description": {
+  "english": "A stage 5 remix, by Hyphen.",
+  "中文": "第 5 关曲目混音版，作者 Hyphen。"
+ },
+ "menu_unlocks_remix_8_description": {
+  "english": "A boss remix, by Exemia and MadDrift.",
+  "中文": "BOSS 曲混音版，作者 Exemia 与 MadDrift。"
+ },
+ "menu_unlocks_remix_9_description": {
+  "english": "A last boss remix, by ikaruga_nex.",
+  "中文": "最终BOSS曲混音版，作者 ikaruga_nex。"
+ },
+ "menu_unlocks_xweapon_description": {
+  "english": "%s. A special weapon, used in XP-Mode. (Unlocks XP-Mode.)",
+  "中文": "%s。XP 模式使用的特殊武器。（解锁 XP 模式。）"
+ },
+ "mission_base_name": {
+  "english": "Base",
+  "中文": "基地"
+ },
+ "mission_bossrush_description": {
+  "english": "Difficulty is high. Fight and triumph against every boss!",
+  "中文": "难度很高。与所有 BOSS 轮番交战并取胜！"
+ },
+ "mission_bossrush_name": {
+  "english": "Boss Rush",
+  "中文": "BOSS连战"
+ },
+ "mission_breakthrough_description": {
+  "english": "Survive against an infinite advance of enemies. Learn to avoid aimed fire!",
+  "中文": "在敌军无限的攻势下生存下来。学会躲避自机狙！"
+ },
+ "mission_breakthrough_name": {
+  "english": "Breakthrough",
+  "中文": "突破重围"
+ },
+ "mission_clear": {
+  "english": "Mission Clear!",
+  "中文": "任务完成！"
+ },
+ "mission_clear_target": {
+  "english": "Clear & Target Score!",
+  "中文": "通关并达成目标分数！"
+ },
+ "mission_cloud_name": {
+  "english": "Cloud",
+  "中文": "云海"
+ },
+ "mission_deathbullet_description": {
+  "english": "All enemies release bullets when they die. Clear the stage using careful movement!",
+  "中文": "所有敌机被击毁时都会散出弹幕。谨慎走位，通关吧！"
+ },
+ "mission_deathbullet_name": {
+  "english": "Death Bullet",
+  "中文": "死亡弹幕"
+ },
+ "mission_delphibreaker_name": {
+  "english": "DELPHI"
+ },
+ "mission_dream_name": {
+  "english": "Dream",
+  "中文": "梦境"
+ },
+ "mission_experimentalweapon2_description": {
+  "english": "Your laser converts bullets into score. Your shot replenishes the laser. Time to go crazy!",
+  "中文": "你的激光会将弹幕转化为分数，主射击则为激光补充能量。尽情大干一场吧！"
+ },
+ "mission_experimentalweapon2_name": {
+  "english": "X-Weapon 2",
+  "中文": "X-Weapon 2"
+ },
+ "mission_experimentalweapon_description": {
+  "english": "Your only weapon is a unique special weapon. Ammo replenishes over time. Clear the stage!",
+  "中文": "你唯一的武器是一件独特的特殊武器。弹药会随时间恢复。通关吧！"
+ },
+ "mission_experimentalweapon_name": {
+  "english": "X-Weapon",
+  "中文": "X-Weapon"
+ },
+ "mission_generic_boss_description": {
+  "english": "Take out the boss using the set loadout.",
+  "中文": "使用指定装备击败 BOSS。"
+ },
+ "mission_generic_stage_description": {
+  "english": "Clear the stage using the set loadout.",
+  "中文": "使用指定装备通关。"
+ },
+ "mission_harbour_name": {
+  "english": "Harbour",
+  "中文": "港湾"
+ },
+ "mission_haskelbreaker_name": {
+  "english": "HASKEL"
+ },
+ "mission_invisiblebullet_description": {
+  "english": "Bullets fade out as they get closer. Clear the stage and the boss!",
+  "中文": "弹幕在接近你时会渐渐隐去。通关并击败 BOSS！"
+ },
+ "mission_invisiblebullet_name": {
+  "english": "Invisible Bullet",
+  "中文": "隐形弹幕"
+ },
+ "mission_junkattack_description": {
+  "english": "The stage is full of bullet-filled scrap. Avoid chain reactions! Pick what you destroy carefully!",
+  "中文": "关卡中到处都是塞满弹幕的废铁。小心连锁反应！谨慎挑选要击毁的目标！"
+ },
+ "mission_junkattack_name": {
+  "english": "Scrap Attack",
+  "中文": "废铁袭击"
+ },
+ "mission_lightninground2_description": {
+  "english": "Bullets are fast! Clear the stage!",
+  "中文": "弹速飞快！通关吧！"
+ },
+ "mission_lightninground2_name": {
+  "english": "Lightning Round 2",
+  "中文": "闪电回合 2"
+ },
+ "mission_lightninground_description": {
+  "english": "The difficulty is high, and bullets are much faster. Use your bombs - clear the stage and boss!",
+  "中文": "难度很高，且弹速大幅提升。善用炸弹——通关并击败 BOSS！"
+ },
+ "mission_lightninground_name": {
+  "english": "Lightning Round",
+  "中文": "闪电回合"
+ },
+ "mission_lunabreaker_name": {
+  "english": "LUNA"
+ },
+ "mission_matador_description": {
+  "english": "A large projectile is constantly following you. Your special weapon can slow it down. Clear the stage!",
+  "中文": "一枚大型投射物会不停追着你。特殊武器能让它减速。通关吧！"
+ },
+ "mission_matador_name": {
+  "english": "Matador",
+  "中文": "斗牛士"
+ },
+ "mission_midbossrush_description": {
+  "english": "Difficulty is high. Take on and defeat all midbosses!",
+  "中文": "难度很高。迎战并击败所有中BOSS！"
+ },
+ "mission_midbossrush_name": {
+  "english": "Midboss Rush",
+  "中文": "中BOSS连战"
+ },
+ "mission_mountain_name": {
+  "english": "Mountain",
+  "中文": "山地"
+ },
+ "mission_needclears": {
+  "english": "Clear %d more to access!",
+  "中文": "再通关 %d 个即可解锁！"
+ },
+ "mission_snakerevenge_description": {
+  "english": "A rare enemy returns! How you destroy them affects the difficulty...",
+  "中文": "稀有敌人再次现身！如何击毁它们将左右难度……"
+ },
+ "mission_snakerevenge_name": {
+  "english": "Snake Revenge",
+  "中文": "蛇之复仇"
+ },
+ "mission_squibbattle_description": {
+  "english": "Defeat the unique boss while being pursued by an orb!",
+  "中文": "在被光球追击的同时击败独特的 BOSS！"
+ },
+ "mission_squibbattle_name": {
+  "english": "Squib Battle",
+  "中文": "爆竹对决"
+ },
+ "mission_superbomber_description": {
+  "english": "You have no special weapon, but scoring creates bomb items. Go for a high score!",
+  "中文": "你没有特殊武器，但得分会产生炸弹道具。冲击高分吧！"
+ },
+ "mission_superbomber_name": {
+  "english": "High Explosive",
+  "中文": "烈性炸药"
+ },
+ "mission_target": {
+  "english": "Target score!",
+  "中文": "目标分数！"
+ },
+ "mission_yasumibreaker_name": {
+  "english": "YASUMI"
+ },
+ "mission_zangyou_description": {
+  "english": "Fight and win against a unique, super-hard stage 3 boss!",
+  "中文": "迎战并击败独特的超难第 3 关 BOSS！"
+ },
+ "mission_zangyou_name": {
+  "english": "Zangyou"
+ },
+ "mission_zealotbreaker_name": {
+  "english": "ZEALOT"
+ },
+ "no": {
+  "english": "No",
+  "中文": "否"
+ },
+ "off": {
+  "english": "Off",
+  "中文": "关"
+ },
+ "on": {
+  "english": "On",
+  "中文": "开"
+ },
+ "pattern_1_1": {
+  "english": "FB-12 \"PULPIT\""
+ },
+ "pattern_1_2": {
+  "english": "CR-19 \"BLUSTER\""
+ },
+ "pattern_1_3": {
+  "english": "HRX-05 \"PURSUIT\""
+ },
+ "pattern_1_4": {
+  "english": "FR-10 \"GUTTERSNIPE\""
+ },
+ "pattern_2_1": {
+  "english": "CSD-34 \"FOCUS\""
+ },
+ "pattern_2_2": {
+  "english": "AR-24 \"MIRAGE\""
+ },
+ "pattern_2_3": {
+  "english": "MR-29 \"HEURISTIC\""
+ },
+ "pattern_2_4": {
+  "english": "LRX-22 \"NUDGE\""
+ },
+ "pattern_2_5": {
+  "english": "MR-38 \"TYRANT\""
+ },
+ "pattern_3_1": {
+  "english": "TR-54 \"SIGNATURE\""
+ },
+ "pattern_3_2": {
+  "english": "FBD-48 \"INQUIRY\""
+ },
+ "pattern_3_3": {
+  "english": "AR-54 \"SPOTLIGHT\""
+ },
+ "pattern_3_4": {
+  "english": "MB-53 \"WIZARD\""
+ },
+ "pattern_3_5": {
+  "english": "LB-50 \"RAPID EYE MOVEMENT\""
+ },
+ "pattern_3_6": {
+  "english": "LRD-57 \"OVERTIME\""
+ },
+ "pattern_4_1": {
+  "english": "MR-78 \"MUDDLE\""
+ },
+ "pattern_4_2": {
+  "english": "OB-64 \"HANDSHAKE\""
+ },
+ "pattern_4_3": {
+  "english": "ARX-75 \"SLATHER\""
+ },
+ "pattern_4_4": {
+  "english": "LS-62 \"SUNDER\""
+ },
+ "pattern_4_5": {
+  "english": "LMR-79 \"MONTE CARLO\""
+ },
+ "pattern_4_6": {
+  "english": "\"VDM-86\""
+ },
+ "pattern_5_1": {
+  "english": "MBX-94 \"BIRDSHOT\""
+ },
+ "pattern_5_10": {
+  "english": "ORH-92 \"ZUGZWANG\""
+ },
+ "pattern_5_11": {
+  "english": "OSH-80 \"FUSILLADE\""
+ },
+ "pattern_5_12": {
+  "english": "LBH-94 \"FIANCHETTO\""
+ },
+ "pattern_5_13": {
+  "english": "VX-86 \"MARTINET\""
+ },
+ "pattern_5_14": {
+  "english": "ARX-100 \"REVOLVER\""
+ },
+ "pattern_5_2": {
+  "english": "LBD-85 \"KEYHOLE\""
+ },
+ "pattern_5_3": {
+  "english": "LBH-90 \"GRIDIRON\""
+ },
+ "pattern_5_4": {
+  "english": "MR-82 \"SCRIMMAGE\""
+ },
+ "pattern_5_5": {
+  "english": "CB-87 \"POUND\""
+ },
+ "pattern_5_6": {
+  "english": "MRX-90 \"HOUDINI\""
+ },
+ "pattern_5_7": {
+  "english": "LB-88 \"VOODOO\""
+ },
+ "pattern_5_8": {
+  "english": "ARX-94 \"MESMERIZE\""
+ },
+ "pattern_5_9": {
+  "english": "LZS-88 \"PRESS\""
+ },
+ "pattern_squib_1": {
+  "english": "SQB-100 \"GLOW SQUIB\""
+ },
+ "pattern_squib_2": {
+  "english": "SQB-256 \"VANISHING POINT\""
+ },
+ "pattern_squib_3": {
+  "english": "SQB-411 \"PALINOPSIA\""
+ },
+ "pattern_squib_4": {
+  "english": "SQB-639 \"BAD OPTIC\""
+ },
+ "pattern_squib_5": {
+  "english": "SQB-888 \"CAUSTIC CONSTANT\""
+ },
+ "pattern_squib_6": {
+  "english": "SQB-1.2e11 \"BRILLIANCE\""
+ },
+ "pattern_tlb_1": {
+  "english": "ECR-180 \"BOMBAST\""
+ },
+ "pattern_tlb_2": {
+  "english": "EMR-290 \"DIRECTIVE\""
+ },
+ "pattern_tlb_3": {
+  "english": "ELD-560 \"CRUNCH\""
+ },
+ "pattern_tlb_4": {
+  "english": "\"MDR-720\""
+ },
+ "pattern_tlb_5": {
+  "english": "TLB-999 \"BLUE REVOLVER\""
+ },
+ "pattern_zangyou_1": {
+  "english": "DFA-100 \"JULIENNE\""
+ },
+ "pattern_zangyou_2": {
+  "english": "TSX-140 \"RUPTURE\""
+ },
+ "pattern_zangyou_3": {
+  "english": "BGR-180 \"BRUXISM\""
+ },
+ "pattern_zangyou_4": {
+  "english": "CGS-220 \"EFFUSION\""
+ },
+ "pattern_zangyou_5": {
+  "english": "AGR-340 \"DEADLINE\""
+ },
+ "pattern_zangyou_6": {
+  "english": "ZNG-999 \"OVERPRESSURE\""
+ },
+ "pause_quit": {
+  "english": "Quit",
+  "中文": "退出"
+ },
+ "pause_restart": {
+  "english": "Restart",
+  "中文": "重新开始"
+ },
+ "pause_resume": {
+  "english": "Resume",
+  "中文": "继续"
+ },
+ "pause_skip": {
+  "english": "Skip",
+  "中文": "跳过"
+ },
+ "pause_title": {
+  "english": "Title",
+  "中文": "回到标题"
+ },
+ "perk_better_flourish_extension": {
+  "english": "Better flourish extension",
+  "中文": "Flourish 更容易延长"
+ },
+ "perk_bomb_damages_all": {
+  "english": "Bombs damage everything",
+  "中文": "炸弹能伤害所有敌人"
+ },
+ "perk_dps": {
+  "english": "Somewhat higher shot damage",
+  "中文": "主炮伤害略微提升"
+ },
+ "perk_easier_extends": {
+  "english": "Easier extends",
+  "中文": "更容易奖命"
+ },
+ "perk_extra_bombs": {
+  "english": "More bomb drops",
+  "中文": "炸弹掉落更多"
+ },
+ "perk_extra_life": {
+  "english": "Start with an extra life",
+  "中文": "开局多一条生命"
+ },
+ "perk_focused_dps": {
+  "english": "Higher focused shot damage",
+  "中文": "集火射击伤害提升"
+ },
+ "perk_free_refills": {
+  "english": "Refill ammo every stage",
+  "中文": "每关补满弹药"
+ },
+ "perk_larger_shots": {
+  "english": "Larger player shot collision",
+  "中文": "自机子弹判定变大"
+ },
+ "perk_longer_counterbomb": {
+  "english": "Longer counterbomb window",
+  "中文": "Counterbomb 窗口更长"
+ },
+ "perk_longer_flourish": {
+  "english": "Longer flourish time",
+  "中文": "Flourish 时间更长"
+ },
+ "perk_more_bomb_ammo": {
+  "english": "Bombs create more ammo",
+  "中文": "炸弹产生更多弹药"
+ },
+ "perk_none_classic_ruleset": {
+  "english": "Classic ruleset",
+  "中文": "经典规则集"
+ },
+ "perk_unfocused_dps": {
+  "english": "Higher unfocused shot damage",
+  "中文": "非集火射击伤害提升"
+ },
+ "pressanykey": {
+  "english": "Press Any Key",
+  "中文": "按任意键"
+ },
+ "rank_level": {
+  "english": "Level %d",
+  "中文": "等级 %d"
+ },
+ "replay_ask_save": {
+  "english": "Save replay?",
+  "中文": "保存回放？"
+ },
+ "replay_framerate_warning": {
+  "english": "This replay was recorded at a high framerate. It may play slowly on some devices.",
+  "中文": "该回放以高帧率录制，在某些设备上可能会播放缓慢。"
+ },
+ "run_bonus": {
+  "english": "Run Bonus",
+  "中文": "单局奖励"
+ },
+ "shipselect_hyper_description": {
+  "english": "The usual, hectic experience. The game will try to match your ability. For shooting veterans.",
+  "中文": "一如既往的激烈体验。游戏会努力匹配你的实力。适合射击游戏老手。"
+ },
+ "shipselect_normal_description": {
+  "english": "For novice players. Enemy patterns go easier on you, and you'll automatically bomb if you get hit.",
+  "中文": "面向新手玩家。敌方弹幕更温和，中弹时还会自动释放炸弹。"
+ },
+ "shipselect_parallel_description": {
+  "english": "The game is locked at the highest difficulty. Fewer extends available, but more bombs. If you can clear this...",
+  "中文": "游戏锁定在最高难度。奖命更少，但炸弹更多。如果你能通关这个……"
+ },
+ "shipselect_speed": {
+  "english": "Movement Speed",
+  "中文": "移动速度"
+ },
+ "shipselect_speed_fast": {
+  "english": "Fast (100%)",
+  "中文": "快（100%）"
+ },
+ "shipselect_speed_medium": {
+  "english": "Medium (90%)",
+  "中文": "中（90%）"
+ },
+ "shipselect_speed_slow": {
+  "english": "Slow (75%)",
+  "中文": "慢（75%）"
+ },
+ "shipselect_weapon_bit_description": {
+  "english": "A typical lock-on weapon. The laser is misaligned...",
+  "中文": "经典的锁定式武器。只是这激光好像没校准……"
+ },
+ "shipselect_weapon_bit_name": {
+  "english": "Percept Bit"
+ },
+ "shipselect_weapon_blade_name": {
+  "english": "Plasma Blade"
+ },
+ "shipselect_weapon_blast_description": {
+  "english": "An impressive amount of pathetically weak grenades.",
+  "中文": "数量惊人、威力可怜的手雷。"
+ },
+ "shipselect_weapon_blast_name": {
+  "english": "Cascade Blast"
+ },
+ "shipselect_weapon_cable_description": {
+  "english": "The cable isn't insulated, so it's seriously dangerous.",
+  "中文": "这根线缆没有保护层，危险系数爆表。"
+ },
+ "shipselect_weapon_cable_name": {
+  "english": "Volt Cable"
+ },
+ "shipselect_weapon_cannon_name": {
+  "english": "Pierce Lancer"
+ },
+ "shipselect_weapon_cluster_name": {
+  "english": "Cluster Missile"
+ },
+ "shipselect_weapon_drone_description": {
+  "english": "Meagre damage on a direct hit. It'd be better to miss.",
+  "中文": "直接命中的伤害少得可怜，还不如打偏。"
+ },
+ "shipselect_weapon_drone_name": {
+  "english": "Zap Drone"
+ },
+ "shipselect_weapon_junk_name": {
+  "english": "Junk Cannon"
+ },
+ "shipselect_weapon_lancer_name": {
+  "english": "Plasma Lancer"
+ },
+ "shipselect_weapon_laser_name": {
+  "english": "Hyper Laser"
+ },
+ "shipselect_weapon_lightning_name": {
+  "english": "Arc Caster"
+ },
+ "shipselect_weapon_orb_description": {
+  "english": "Bounces off everything, including other orbs.",
+  "中文": "碰到什么弹什么，包括其他光球。"
+ },
+ "shipselect_weapon_orb_name": {
+  "english": "Kinetic Orb"
+ },
+ "shipselect_weapon_payload_name": {
+  "english": "Cluster Payload"
+ },
+ "shipselect_weapon_salvo_name": {
+  "english": "Fractal Salvo"
+ },
+ "shipselect_weapon_shield_name": {
+  "english": "Gun Buckler"
+ },
+ "shipselect_weapon_shrapnel_name": {
+  "english": "Scrap Option"
+ },
+ "shipselect_weapon_stasis_name": {
+  "english": "Stasis Field"
+ },
+ "shipselect_weapon_vortex_name": {
+  "english": "Vortex Barrier"
+ },
+ "start_bombtoskip": {
+  "english": "BOMB: Skip",
+  "中文": "炸弹：跳过"
+ },
+ "start_experimentalextends": {
+  "english": "Extends at:\nevery 20,000,000",
+  "中文": "奖命分数线：\n每 20,000,000"
+ },
+ "start_hyperextends": {
+  "english": "Extends at:\n5,000,000\nevery 15,000,000",
+  "中文": "奖命分数线：\n5,000,000\n每 15,000,000"
+ },
+ "start_hyperextends_classic": {
+  "english": "Extends at:\n5,000,000\n15,000,000\n25,000,000\n50,000,000",
+  "中文": "奖命分数线：\n5,000,000\n15,000,000\n25,000,000\n50,000,000"
+ },
+ "start_normalextends": {
+  "english": "Extends at:\n5,000,000\nevery 10,000,000",
+  "中文": "奖命分数线：\n5,000,000\n每 10,000,000"
+ },
+ "start_normalextends_classic": {
+  "english": "Extends at:\n5,000,000\n10,000,000\n20,000,000\n30,000,000",
+  "中文": "奖命分数线：\n5,000,000\n10,000,000\n20,000,000\n30,000,000"
+ },
+ "start_parallelextends": {
+  "english": "Extends at:\n40,000,000\n80,000,000\n120,000,000",
+  "中文": "奖命分数线：\n40,000,000\n80,000,000\n120,000,000"
+ },
+ "start_parallelextends_classic": {
+  "english": "Extends at:\nevery 15,000,000",
+  "中文": "奖命分数线：\n每 15,000,000"
+ },
+ "tutorial_bl_basics_1": {
+  "english": "Tap or hold %s for an unlimited-ammo machinegun.",
+  "中文": "点按或按住 %s，即可使用弹药无限的主炮机枪。"
+ },
+ "tutorial_bl_basics_2": {
+  "english": "Tapping %s (or holding %s) lets you shoot while staying at full speed.",
+  "中文": "点按 %s（或按住 %s）可以在保持全速移动的同时射击。"
+ },
+ "tutorial_bl_basics_3": {
+  "english": "Holding %s tightens the spread and does a little more damage - slowing you down for precise movement.",
+  "中文": "按住 %s 会收束弹道并略微提升伤害——同时移动减速，便于精密走位。"
+ },
+ "tutorial_bl_basics_4": {
+  "english": "Hold %s for a special weapon. It uses ammo, but is more powerful.",
+  "中文": "按住 %s 使用特殊武器。会消耗弹药，但威力更强。"
+ },
+ "tutorial_bl_basics_5": {
+  "english": "In a pinch, use a bomb with %s - making you invulnerable for a short duration, and turning enemy bullets into ammo.",
+  "中文": "危急时刻，用 %s 释放炸弹——短时间内无敌，并将敌方弹幕转化为弹药。"
+ },
+ "tutorial_bl_basics_6": {
+  "english": "Only the yellow part in the middle of your ship is vulnerable - keep it safe.",
+  "中文": "只有机体中央的黄色部分会被击中——务必保护好它。"
+ },
+ "tutorial_bl_basics_7": {
+  "english": "Scoring well awards bonus lives - check the \"Scoring\" tutorial for more information.",
+  "中文": "高分表现会奖励额外生命——更多信息请查看「计分」教程。"
+ },
+ "tutorial_bl_basics_8": {
+  "english": "Good luck!",
+  "中文": "祝你好运！"
+ },
+ "tutorial_bl_hyper_1": {
+  "english": "Hyper mode uses a dynamic difficulty / \"rank\" system. The bar at the top represents the difficulty.",
+  "中文": "狂热模式采用动态难度（\"Rank\"）系统。顶部的横条代表当前难度。"
+ },
+ "tutorial_bl_hyper_2": {
+  "english": "There are five color-coded difficulty levels.",
+  "中文": "共有五个以颜色区分的难度等级。"
+ },
+ "tutorial_bl_hyper_3": {
+  "english": "Scoring points fills the difficulty bar until it levels up.",
+  "中文": "得分会填充难度条，填满后难度升级。"
+ },
+ "tutorial_bl_hyper_4": {
+  "english": "Dying will level down the difficulty.",
+  "中文": "死亡会使难度降级。"
+ },
+ "tutorial_bl_hyper_5": {
+  "english": "Once max difficulty is reached, the difficulty eventually decreases on its own - the less lives you have, the faster it decreases.",
+  "中文": "达到最高难度后，难度最终会自行下降——剩余生命越少，下降越快。"
+ },
+ "tutorial_bl_scoring_1": {
+  "english": "Destroy enemies with the machinegun in quick succession to build up an 8-Chain.",
+  "中文": "用主炮机枪快速连续击毁敌机，可以积累 8 连锁。"
+ },
+ "tutorial_bl_scoring_2": {
+  "english": "After building an 8-chain, use the special weapon to \"Flourish\" - destroy enemies with it to generate score items until the chain resets!",
+  "中文": "积满 8 连锁后，使用特殊武器即可触发 \"Flourish\"——用它击毁敌机会不断产生分数道具，直到连锁重置！"
+ },
+ "tutorial_bl_scoring_3": {
+  "english": "You can extend chains and flourishes using a bomb.",
+  "中文": "使用炸弹可以延长连锁和 Flourish。"
+ },
+ "tutorial_bl_scoring_4": {
+  "english": "\"Break\" bonuses are point bonuses awarded for special \"tricks\".",
+  "中文": "\"Break\" 奖励是完成特殊\"技巧\"后获得的分数加成。"
+ },
+ "tutorial_bl_scoring_5": {
+  "english": "To score this bonus, destroy both wings in quick succession.",
+  "中文": "想拿到这个奖励，就需要快速连续击毁两翼。"
+ },
+ "tutorial_bl_scoring_6": {
+  "english": "Look for these markers to figure out how to score breaks.",
+  "中文": "留意这些标记，就能知道如何取得 Break。"
+ },
+ "tutorial_bl_scoring_6_break": {
+  "english": "Destroy this!",
+  "中文": "击毁这个！"
+ },
+ "tutorial_bl_scoring_6_nobreak": {
+  "english": "Don't destroy this!",
+  "中文": "别击毁这个！"
+ },
+ "tutorial_bl_scoring_7": {
+  "english": "Getting set score thresholds will award you with an \"extend\" - a bonus life!",
+  "中文": "达到既定分数线即可获得 \"extend\"（奖命）——一条额外生命！"
+ },
+ "tutorial_xmode_1": {
+  "english": "In XP-Mode, special weapons consume lots of ammo, but always produce x64 score items.",
+  "中文": "在 XP 模式中，特殊武器会消耗大量弹药，但必定产生 x64 分数道具。"
+ },
+ "tutorial_xmode_2": {
+  "english": "Using your main shot will replenish ammunition. This is more effective at close-medium range.",
+  "中文": "使用主射击可以补充弹药。在中近距离时效果更好。"
+ },
+ "tutorial_xmode_3": {
+  "english": "Scoring will upgrade your ship. This increases the game difficulty. Game difficulty never decreases in this mode.",
+  "中文": "得分会升级你的机体，同时提高游戏难度。此模式下难度永远不会下降。"
+ },
+ "tutorial_xmode_4": {
+  "english": "Scoring also refills your bomb. You can only have 1 bomb in stock, but it turns enemy bullets into score and refills ammo instantly.",
+  "中文": "得分还会补充炸弹。你只能持有 1 枚炸弹，但它能将敌方弹幕转化为分数，并瞬间回满弹药。"
+ },
+ "tutorial_xmode_5": {
+  "english": "The silver score items, produced by the bomb and some enemies, don't refill your bomb.",
+  "中文": "由炸弹和部分敌机产生的银色分数道具，不会补充炸弹。"
+ },
+ "val_ending_1": {
+  "english": "VAL: ... ... ...",
+  "中文": "VAL：……"
+ },
+ "val_ending_2": {
+  "english": "VAL: I'm calling sick today.",
+  "中文": "VAL：我今天要请个病假。"
+ },
+ "val_ending_3": {
+  "english": "END",
+  "中文": "END"
+ },
+ "val_ending_timings": {
+  "english": [
+   4,
+   5,
+   8
+  ]
+ },
+ "yes": {
+  "english": "Yes",
+  "中文": "是"
+ },
+ "assist_info": {
+  "english": "辅助选项会影响记录的有效性。按开火或特殊键继续。",
+  "中文": "辅助选项会影响记录的有效性。按开火或特殊键继续。"
+ },
+ "mission_st1": {
+  "english": "第 1 关",
+  "中文": "第 1 关"
+ },
+ "mission_st2": {
+  "english": "第 2 关",
+  "中文": "第 2 关"
+ },
+ "mission_st3": {
+  "english": "第 3 关",
+  "中文": "第 3 关"
+ },
+ "mission_st4": {
+  "english": "第 4 关",
+  "中文": "第 4 关"
+ },
+ "mission_st5": {
+  "english": "第 5 关",
+  "中文": "第 5 关"
+ },
+ "mission_bossrush": {
+  "english": "BOSS连战",
+  "中文": "BOSS连战"
+ },
+ "mission_midbossrush": {
+  "english": "中BOSS连战",
+  "中文": "中BOSS连战"
+ },
+ "scoremultiplier": {
+  "english": "x%s",
+  "中文": "x%s"
+ },
+ "Press key for": {
+  "english": "请按下按键：",
+  "中文": "请按下按键："
+ },
+ "joypadsupport": {
+  "english": "支持手柄操作。",
+  "中文": "支持手柄操作。"
+ }
+}

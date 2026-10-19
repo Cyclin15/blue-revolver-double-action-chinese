@@ -1,0 +1,2218 @@
+{
+    "areyousure": {
+        "english": "Are you sure?"
+    },
+    "assist_enhancedshot": {
+        "doubleaction": true,
+        "english": "Enhanced Shot"
+    },
+    "assist_enhancedshot_description": {
+        "doubleaction": true,
+        "english": "Increased primary weapon damage. (+35%)"
+    },
+    "assist_freeplay": {
+        "english": "Free Play"
+    },
+    "assist_freeplay_description": {
+        "doubleaction": true,
+        "english": "Arcade-style continues, allowing you to refill your lives and keep going when you run out."
+    },
+    "assist_infiniteammo": {
+        "doubleaction": true,
+        "english": "Infinite Ammo"
+    },
+    "assist_infiniteammo_description": {
+        "doubleaction": true,
+        "english": "Infinite ammo for all special weapons."
+    },
+    "assist_reducedbullets": {
+        "doubleaction": true,
+        "english": "Reduced Bullets"
+    },
+    "assist_reducedbullets_description": {
+        "doubleaction": true,
+        "english": "50% less enemy bullets to deal with."
+    },
+    "assist_slowbullets": {
+        "doubleaction": true,
+        "english": "Slow Bullets"
+    },
+    "assist_slowbullets_description": {
+        "doubleaction": true,
+        "english": "40% slower enemy bullets. (Note: This doesn't always make things easier...)"
+    },
+    "assist_superautobomb": {
+        "doubleaction": true,
+        "english": "Super Autobomb"
+    },
+    "assist_superautobomb_description": {
+        "doubleaction": true,
+        "english": "Bombs are used automatically to save you from death on all modes. Super Autobomb only uses up one bomb, instead of all in reserve."
+    },
+    "back": {
+        "english": "Back"
+    },
+    "boss1craft": {
+        "english": "R1 \"DELPHI\""
+    },
+    "boss1name": {
+        "english": "RUM & ALE"
+    },
+    "boss1name_val": {
+        "english": "???"
+    },
+    "boss1quote": {
+        "english": "Where do you think you're going in that machine?"
+    },
+    "boss1quote_val": {
+        "english": "... ... ..."
+    },
+    "boss2craft": {
+        "english": "R2 \"HASKEL\""
+    },
+    "boss2name": {
+        "english": "DON"
+    },
+    "boss2name_val": {
+        "english": "???"
+    },
+    "boss2quote": {
+        "english": "That Device doesn't seem to be registered in our database. Did someone sell it to you?"
+    },
+    "boss2quote_val": {
+        "english": "... ... ..."
+    },
+    "boss3craft": {
+        "english": "R3 \"YASUMI\""
+    },
+    "boss3name": {
+        "english": "VAL"
+    },
+    "boss3name_val": {
+        "english": "VAL"
+    },
+    "boss3quote": {
+        "english": "I'm getting really tired of playing cat and mouse. Could you do me a favor and go turn yourself in instead?"
+    },
+    "boss3quote_val": {
+        "english": "I'm glad to see that you're doing okay after all."
+    },
+    "boss4craft": {
+        "english": "R4 \"LUNA\""
+    },
+    "boss4name": {
+        "english": "IRA"
+    },
+    "boss4name_val": {
+        "english": "MAE"
+    },
+    "boss4quote": {
+        "english": "I've heard a lot about you. Step out of the cockpit and come play with me!"
+    },
+    "boss4quote_val": {
+        "english": "Yoo-hoo!! Would you happen to know where my ship went?"
+    },
+    "boss5craft": {
+        "english": "SR-1 \"EPSILON\""
+    },
+    "boss5name": {
+        "english": "DEE"
+    },
+    "boss5name_val": {
+        "english": "DEE"
+    },
+    "boss5quote": {
+        "english": "If I don't act now, then this could be the end for the both of us. I hope you're ready."
+    },
+    "boss5quote_val": {
+        "english": "You can't stay dreaming like this forever."
+    },
+    "boss6craft": {
+        "english": "SR-X \"ZEALOT\""
+    },
+    "boss6name": {
+        "english": "VAL & DEE"
+    },
+    "boss6name_val": {
+        "english": "MAE & DEE"
+    },
+    "boss6quote": {
+        "english": "You're not the only one who can break the rules."
+    },
+    "boss6quote_val": {
+        "english": "You're not the only one who can break the rules."
+    },
+    "boss7craft": {
+        "english": "R3-X \"ZANGYOU\""
+    },
+    "boss7name": {
+        "english": "???"
+    },
+    "continue_prompt": {
+        "english": "Press SPECIAL to continue!"
+    },
+    "credits_1": {
+        "english": [
+            "=STAFF="
+        ]
+    },
+    "credits_10": {
+        "english": [
+            "MUSIC REMIXES",
+            "Blue Phoenix",
+            "Exemia",
+            "Mitomoro",
+            "Terranaut",
+            "Aghast",
+            "Hyphen",
+            "ikaruga_nex"
+        ]
+    },
+    "credits_11": {
+        "english": [
+            "GUEST GALLERY",
+            "Shiomachi",
+            "Raigou",
+            "Yosuke",
+            "Arsk", 
+            "Hermes",
+            "Naso",
+            "Mandi",
+            "Ken",
+            "Moudoku",
+            "rae",
+            "U#",
+            "Yawe",
+            "Rog Rockbe",
+            "barachan",
+            "Comic-Z",
+            "ginko",
+            "Godshot",
+            "Kusada"
+        ]
+    },
+    "credits_12": {
+        "english": [
+            "TRANSLATION",
+            "Morikuma",
+            "Tasoyani",
+            "mojilove",
+            "Ehkzai",
+            "MoonZ"
+        ]
+    },
+    "credits_13": {
+        "english": [
+            "BETA TESTERS",
+            "Jaimers",
+            "Yomogimaru",
+            "Ehkzai",
+            "koren",
+            "pigswill",
+            "Sebmal",
+            "Sibladeko",
+            "GSK",
+            "Nihnoz",
+            "sesh",
+            "whisper",
+            "Cagar",
+            "Bananamatic",
+            "2house2fly",
+            "Softdrink",
+            "PepsimanVsJoe"
+        ]
+    },
+    "credits_14": {
+        "english": [
+            "=STELLAR PLAYERS=",
+            "",
+            "=WR HOLDERS=",
+            "marus",
+            "むんべちゃん",
+            "Kiwi",
+            "Legless",
+            "",
+            "=FLAWLESS PARALLEL=",
+            "珠海すみれ"
+        ]
+    },
+    "credits_15": {
+        "doubleaction": true,
+        "english": [
+            "=v0.5 SCORE ATTACK=",
+            "Jaimers, ODENMAN,",
+            "KOT, 路頭のすみす,",
+            "Bryant Rubio, くれない,",
+            "STK, Yomogimaru,",
+            "ふぉれすた, Softdrink,",
+            "Ratikal"
+        ]
+    },
+    "credits_16": {
+        "english": [
+            "Built with LOVE",
+            "love2d.org",
+            "",
+            "=LIBRARIES=",
+            "HUMP",
+            "Simple Tiled Implementation",
+            "anim8, love-loader",
+            "brinevector, bitser",
+            "moonshine, luasteam",
+            "json.lua, shash.lua",
+            "lume.lua, lurker.lua",
+            "",
+            "=FONTS=",
+            "Silver.ttf",
+            "Thaleah",
+            "04b-03",
+            "ikkle-4"
+        ]
+    },
+    "credits_17": {
+        "english": [
+            "=BLUE REVOLVER=",
+            "=DOUBLE ACTION=",
+            "",
+            "Presented by",
+            "STELLAR CIRCLE",
+            "2016-2024"
+        ]
+    },
+    "credits_2": {
+        "english": [
+            "DESIGN / CODE",
+            "danbo"
+        ]
+    },
+    "credits_3": {
+        "english": [
+            "ART DIRECTION",
+            "woof"
+        ]
+    },
+    "credits_4": {
+        "english": [
+            "BACKGROUND ART",
+            "Comic"
+        ]
+    },
+    "credits_5": {
+        "english": [
+            "MUSIC",
+            "Qygen",
+            "Novaturtle",
+            "Exemia",
+            "Hagane"
+        ]
+    },
+    "credits_6": {
+        "english": [
+            "SOUND",
+            "Wyrm"
+        ]
+    },
+    "credits_7": {
+        "english": [
+            "=GUESTS="
+        ]
+    },
+    "credits_8": {
+        "english": [
+            "VOICE ACTING",
+            "Momobako",
+            "Nayuki Yuzu",
+            "Akinola Verissimo",
+            "Matthew Cibulas"
+        ]
+    },
+    "credits_9": {
+        "english": [
+            "MASTERING",
+            "Dyzphazia"
+        ]
+    },
+    "credits_thanks": {
+        "english": [
+            "Thank you for playing."
+        ]
+    },
+    "credits_thanks_hyper": {
+        "english": [
+            "Thank you for playing.",
+            "",
+            "Try PARALLEL mode!"
+        ]
+    },
+    "credits_thanks_normal": {
+        "english": [
+            "Thank you for playing.",
+            "",
+            "Try HYPER mode!"
+        ]
+    },
+    "credits_thanks_parallel": {
+        "english": [
+            "Congratulations on your clear, and thank you from the bottom of our hearts.",
+            "",
+            "The time, the stress and the love we poured into this game would amount to nothing without players like you.",
+            "",
+            "Only when our efforts meet yours can we create something truly stellar.",
+            "",
+            "So may we keep working together, and may STGs never die!"
+        ]
+    },
+    "dee_ending_1": {
+        "doubleaction": true,
+        "english": "DEE: Hmm... Something about this simulation isn't quite right."
+    },
+    "dee_ending_2": {
+        "doubleaction": true,
+        "english": "DEE: I could barely keep up with everything it tossed at me."
+    },
+    "dee_ending_3": {
+        "doubleaction": true,
+        "english": "DEE: Ira was in charge of today's training program. Surely she didn't tamper with any of the core Device settings?"
+    },
+    "dee_ending_4": {
+        "doubleaction": true,
+        "english": "DEE: My performance rating should definitely be higher..."
+    },
+    "dee_ending_5": {
+        "doubleaction": true,
+        "english": "DEE: ..."
+    },
+    "dee_ending_6": {
+        "doubleaction": true,
+        "english": "DEE: I'm going to have a talk with her after this."
+    },
+    "dee_ending_7": {
+        "doubleaction": true,
+        "english": "END"
+    },
+    "dee_ending_timings": {
+        "english": [
+            6,
+            6,
+            7,
+            5,
+            3,
+            4,
+            8
+        ]
+    },
+    "difficulty_hyper": {
+        "english": "Hyper"
+    },
+    "difficulty_normal": {
+        "english": "Normal"
+    },
+    "difficulty_parallel": {
+        "english": "Parallel"
+    },
+    "difficulty_xmode": {
+        "doubleaction": true,
+        "english": "XP-Mode"
+    },
+    "error_leaderboard_upload": {
+        "english": "Leaderboard upload error."
+    },
+    "error_replay_attach": {
+        "english": "Replay attach error."
+    },
+    "error_replay_download": {
+        "english": "Replay download error."
+    },
+    "error_replay_upload": {
+        "english": "Replay upload error."
+    },
+    "finalreward_congrats": {
+        "doubleaction": true,
+        "english": "100% completion rate.\nYou have reached the highest point.\nNew ship palettes unlocked."
+    },
+    "finalreward_thanks": {
+        "english": "There's nothing left to say.\nThanks for believing in our game.\nStellar Circle, 2024"
+    },
+    "framerate_warning": {
+        "doubleaction": true,
+        "english": "BLUE REVOLVER is designed and tested for 60Hz - altering this will result in very subtle gameplay differences.\n\nLeaderboards are only available for 60Hz and 120Hz."
+    },
+    "intro_1": {
+        "english": "In this world, magic possesses a code-like structure."
+    },
+    "intro_10": {
+        "english": "With this alone, their performance and speed currently excels that of other competing Technician companies."
+    },
+    "intro_11": {
+        "english": "Supposedly only a handful of Devices are known to exist, all licensed under Blue Revolver."
+    },
+    "intro_12": {
+        "english": "However, somewhere deep in the mountains lies a huge data anomaly with readings extremely similar to that of a Device."
+    },
+    "intro_13": {
+        "english": "Other Technician companies have largely ignored this, assuming it was just one of Blue Revolver's creations."
+    },
+    "intro_14": {
+        "english": "Looking for answers and hoping to disable this anomaly, Blue Revolver heads out to investigate."
+    },
+    "intro_2": {
+        "english": "Through the use of technological supplements and scripting, the user is able to defy, rewrite, and manipulate the laws of nature temporarily."
+    },
+    "intro_3": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Due to the unnatural method of handling magic, using it extensively causes ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "junk data",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " to materialize - hazardous if allowed to build up."
+        ]
+    },
+    "intro_4": {
+        "english": "Safety laws are enforced preventing individuals from building certain types of magical contraptions without a license and proper supervision."
+    },
+    "intro_5": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Specialists called ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "Technicians",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " are trained and sent to regularly maintain and negate all types of data anomalies."
+        ]
+    },
+    "intro_6": {
+        "english": "Optimal programs and scripts create minimal build-up, but most scripts used by common citizens are not very well written and can cause a lot of junk data if unattended."
+    },
+    "intro_7": {
+        "english": "Due to the skill involved, Technicians are relatively high in demand."
+    },
+    "intro_8": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Recently, a small Technician group called ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "Blue Revolver",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " has been on the rise with their high end tools known as ",
+            [
+                0.85490196078431,
+                0.83137254901961,
+                0.36862745098039
+            ],
+            "\"Devices\"",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "."
+        ]
+    },
+    "intro_9": {
+        "english": "These magical remote controls can channel complex, dynamic AI scripts into slave machines."
+    },
+    "intro_timings": {
+        "english": [
+            4,
+            5.5,
+            5.5,
+            7.5,
+            4.5,
+            5.5,
+            4,
+            4.5,
+            3.5,
+            4,
+            3.5,
+            4,
+            3.5,
+            3.5
+        ]
+    },
+    "leaderboard_ask_retry": {
+        "english": "Retry?"
+    },
+    "leaderboard_ask_submit": {
+        "english": "Submit to leaderboard?"
+    },
+    "leaderboard_submit_success": {
+        "english": "Successfully submitted."
+    },
+    "leaderboard_submitting": {
+        "english": "Submitting..."
+    },
+    "leaderboards_download_replay": {
+        "english": "Download replay?"
+    },
+    "leaderboards_filter_friends": {
+        "english": "Friends"
+    },
+    "leaderboards_filter_global": {
+        "english": "Global"
+    },
+    "leaderboards_filter_me": {
+        "english": "My Score"
+    },
+    "leaderboards_finished_downloading_replay": {
+        "english": "Finished downloading replay. You can find it in the Replays menu."
+    },
+    "mae_ending_1": {
+        "english": "MAE: What's going on? Why won't my Device respond?"
+    },
+    "mae_ending_10": {
+        "english": "???: Shut up! That's not what she's saying at all!"
+    },
+    "mae_ending_11": {
+        "english": "MAE: Oof!"
+    },
+    "mae_ending_12": {
+        "english": "VAL: This is about safety! We didn't fly all the way out here just to step on your hobbies. What part of that do you not understand?!"
+    },
+    "mae_ending_13": {
+        "english": "MAE: ... ... ..."
+    },
+    "mae_ending_14": {
+        "english": "MAE: I... I didn't mean to hurt anybody..."
+    },
+    "mae_ending_15": {
+        "english": "DEE: Val, that's enough. Mae, if you're willing to listen, then I can teach you a few things about building efficiently so you don't make the same mistake twice."
+    },
+    "mae_ending_16": {
+        "english": "DEE: You just have to promise us that you'll stop living recklessly like this and obey the law from now on."
+    },
+    "mae_ending_17": {
+        "english": "Despite Dee's assistance, Mae eventually gave up on ambitious building projects and instead decided to pursue life as a freelance designer for Technicians."
+    },
+    "mae_ending_18": {
+        "english": "MAE: Come on Dee, it's not like your lessons have gone to waste... You just helped me realize that it's easier to let other people do the dirty work for me!"
+    },
+    "mae_ending_19": {
+        "english": "VAL: That's one way of putting it."
+    },
+    "mae_ending_2": {
+        "english": "DEE (sound only): That's not a real Device. You may act like a creative genius, but you clearly lack the ability to actually build these things."
+    },
+    "mae_ending_20": {
+        "english": "DEE: I've never met anyone so stubborn in my life..."
+    },
+    "mae_ending_21": {
+        "english": "END"
+    },
+    "mae_ending_3": {
+        "english": "DEE (sound only): I'm sure our other members have told you many times before, but attempting to create something of this caliber without consent and proper supervision is against the law."
+    },
+    "mae_ending_4": {
+        "english": "MAE: Well, what do you want from me! I don't want to work with other people, and I sure don't like strangers telling me what I can and can't do!"
+    },
+    "mae_ending_5": {
+        "english": "DEE: Mae, this isn't something you can afford to be selfish about."
+    },
+    "mae_ending_6": {
+        "english": "DEE: Look around you! There's nothing normal about the environment or your Device's condition."
+    },
+    "mae_ending_7": {
+        "english": "DEE: More importantly, the result of your carelessness was putting everyone's lives at risk; we had no choice but to do something."
+    },
+    "mae_ending_8": {
+        "english": "MAE: So what? Are you telling me I should just stop building things because I'm not good at it?"
+    },
+    "mae_ending_9": {
+        "english": "MAE: You're insane! Your whole team is crazy!"
+    },
+    "mae_ending_timings": {
+        "english": [
+            3,
+            5,
+            6,
+            5,
+            3,
+            3.5,
+            4,
+            3.5,
+            3.5,
+            3,
+            2.5,
+            4.5,
+            2,
+            3.5,
+            5,
+            4,
+            6,
+            5,
+            3,
+            3.5,
+            8
+        ]
+    },
+    "mainmenu_extras": {
+        "english": "Extras"
+    },
+    "mainmenu_highscores": {
+        "english": "Highscores"
+    },
+    "mainmenu_missions": {
+        "english": "Missions"
+    },
+    "mainmenu_options": {
+        "english": "Options"
+    },
+    "mainmenu_play": {
+        "english": "Play"
+    },
+    "mainmenu_quit": {
+        "english": "Quit"
+    },
+    "mainmenu_stageselect": {
+        "english": "Stage Select"
+    },
+    "mainmenu_unlocks": {
+        "english": "Unlocks"
+    },
+    "mainmenu_xmode": {
+        "doubleaction": true,
+        "english": "Play XP-Mode"
+    },
+    "medal_goal_clear": {
+        "doubleaction": true,
+        "english": "Clear the game!"
+    },
+    "medal_goal_clear_parallel": {
+        "doubleaction": true,
+        "english": "Clear on Parallel!"
+    },
+    "medal_goal_complete": {
+        "doubleaction": true,
+        "english": "All goals achieved!"
+    },
+    "medal_goal_score_target": {
+        "doubleaction": true,
+        "english": "Score %s and clear!"
+    },
+    "menu_extras_breakguide": {
+        "english": "Break Guide"
+    },
+    "menu_extras_completion": {
+        "doubleaction": true,
+        "english": "Completion Rate"
+    },
+    "menu_extras_completion_clears": {
+        "doubleaction": true,
+        "english": "Clear Medals"
+    },
+    "menu_extras_completion_mission_clears": {
+        "doubleaction": true,
+        "english": "Mission Clears"
+    },
+    "menu_extras_completion_mission_medals": {
+        "doubleaction": true,
+        "english": "Mission Medals"
+    },
+    "menu_extras_completion_parallel_clears": {
+        "doubleaction": true,
+        "english": "Parallel Clear Medals"
+    },
+    "menu_extras_completion_score_medals": {
+        "doubleaction": true,
+        "english": "Score Medals"
+    },
+    "menu_extras_completion_shop_unlocks": {
+        "doubleaction": true,
+        "english": "Shop Unlocks"
+    },
+    "menu_extras_completion_xmode_clears": {
+        "doubleaction": true,
+        "english": "XP-Mode Medals"
+    },
+    "menu_extras_credits": {
+        "english": "Credits"
+    },
+    "menu_extras_credits_parallel": {
+        "english": "Credits (Parallel)"
+    },
+    "menu_extras_cutscenes": {
+        "doubleaction": true,
+        "english": "Cutscenes"
+    },
+    "menu_extras_dee_ending": {
+        "doubleaction": true,
+        "english": "Ending (Dee)"
+    },
+    "menu_extras_gallery": {
+        "english": "Gallery"
+    },
+    "menu_extras_highscores": {
+        "english": "Highscores"
+    },
+    "menu_extras_intro": {
+        "english": "Intro"
+    },
+    "menu_extras_leaderboards": {
+        "english": "Leaderboards"
+    },
+    "menu_extras_mae_ending": {
+        "english": "Ending (Mae)"
+    },
+    "menu_extras_musicroom": {
+        "english": "Music Room"
+    },
+    "menu_extras_replays": {
+        "english": "Replays"
+    },
+    "menu_extras_tutorial_basics": {
+        "doubleaction": true,
+        "english": "Tutorial (Basics)"
+    },
+    "menu_extras_tutorial_hyper": {
+        "doubleaction": true,
+        "english": "Tutorial (Hyper)"
+    },
+    "menu_extras_tutorial_scoring": {
+        "doubleaction": true,
+        "english": "Tutorial (Scoring)"
+    },
+    "menu_extras_tutorial_xmode": {
+        "doubleaction": true,
+        "english": "Tutorial (XP-Mode)"
+    },
+    "menu_extras_tutorials": {
+        "doubleaction": true,
+        "english": "Tutorials"
+    },
+    "menu_extras_val_ending": {
+        "english": "Ending (Val)"
+    },
+    "menu_extras_xmode_ending": {
+        "doubleaction": true,
+        "english": "Ending (XP-Mode)"
+    },
+    "menu_gallery_comment_charale": {
+        "english": "Ale"
+    },
+    "menu_gallery_comment_chardee": {
+        "english": "Dee"
+    },
+    "menu_gallery_comment_chardon": {
+        "english": "Don"
+    },
+    "menu_gallery_comment_charira": {
+        "english": "Ira"
+    },
+    "menu_gallery_comment_charrum": {
+        "english": "Rum"
+    },
+    "menu_gallery_comment_charval": {
+        "english": "Val"
+    },
+    "menu_gallery_comment_concept1": {
+        "english": "Scrapped gallery piece"
+    },
+    "menu_gallery_comment_concept2": {
+        "english": "Mae's initial design"
+    },
+    "menu_gallery_comment_concept3": {
+        "english": "Initial protagonists"
+    },
+    "menu_gallery_comment_concept4": {
+        "english": "Initial boss roster"
+    },
+    "menu_gallery_comment_extra3": {
+        "english": "Momobako (Announcer / Mae's VA)"
+    },
+    "menu_gallery_comment_extra4": {
+        "english": "Nayuki Yuzu (Announcer / Val's VA)"
+    },
+    "menu_gallery_comment_promo1": {
+        "english": "For v0.5 release"
+    },
+    "menu_gallery_comment_promo4": {
+        "english": "For v0.5 hiscore challenge"
+    },
+    "menu_gallery_credit": {
+        "english": "by %s"
+    },
+    "menu_music_boss": {
+        "english": "Boss"
+    },
+    "menu_music_challenge": {
+        "english": "Special Stage"
+    },
+    "menu_music_ending": {
+        "english": "Ending"
+    },
+    "menu_music_finalboss1": {
+        "english": "Final Boss A"
+    },
+    "menu_music_finalboss2": {
+        "english": "True Boss"
+    },
+    "menu_music_interlude": {
+        "english": "Credits"
+    },
+    "menu_music_nameentry": {
+        "english": "Name Entry"
+    },
+    "menu_music_shipselect": {
+        "english": "Ship Select"
+    },
+    "menu_music_stage1": {
+        "english": "Stage 1"
+    },
+    "menu_music_stage2": {
+        "english": "Stage 2"
+    },
+    "menu_music_stage3": {
+        "english": "Stage 3"
+    },
+    "menu_music_stage4": {
+        "english": "Stage 4"
+    },
+    "menu_music_stage5": {
+        "english": "Stage 5"
+    },
+    "menu_music_stagecomplete": {
+        "english": "Complete"
+    },
+    "menu_music_title": {
+        "english": "Title"
+    },
+    "menu_options_aghast": {
+        "english": "Aghast"
+    },
+    "menu_options_akinola": {
+        "english": "Akinola"
+    },
+    "menu_options_all_controllers": {
+        "english": "Any"
+    },
+    "menu_options_ammo": {
+        "english": "Ammo"
+    },
+    "menu_options_announcer": {
+        "english": "Announcer"
+    },
+    "menu_options_apply_display": {
+        "doubleaction": true,
+        "english": "Apply Video Settings"
+    },
+    "menu_options_aspectratio": {
+        "english": "Aspect Ratio"
+    },
+    "menu_options_audio": {
+        "english": "Audio"
+    },
+    "menu_options_axis": {
+        "english": "Axis %d"
+    },
+    "menu_options_backgroundbrightness": {
+        "doubleaction": true,
+        "english": "Background Brightness"
+    },
+    "menu_options_backgroundsaturation": {
+        "doubleaction": true,
+        "english": "Background Saturation"
+    },
+    "menu_options_bluephoenix": {
+        "english": "Blue Phoenix"
+    },
+    "menu_options_bomb": {
+        "english": "Bomb"
+    },
+    "menu_options_borderless": {
+        "english": "Borderless"
+    },
+    "menu_options_bosstheme": {
+        "english": "Boss"
+    },
+    "menu_options_bulletcolors": {
+        "doubleaction": true,
+        "english": "Bullet Colors"
+    },
+    "menu_options_bulletcolors_alternate": {
+        "doubleaction": true,
+        "english": "Alternate"
+    },
+    "menu_options_bulletcolors_custom": {
+        "doubleaction": true,
+        "english": "Custom"
+    },
+    "menu_options_bulletcolors_custom1blue": {
+        "doubleaction": true,
+        "english": "Color 1 Blue"
+    },
+    "menu_options_bulletcolors_custom1green": {
+        "doubleaction": true,
+        "english": "Color 1 Green"
+    },
+    "menu_options_bulletcolors_custom1red": {
+        "doubleaction": true,
+        "english": "Color 1 Red"
+    },
+    "menu_options_bulletcolors_custom2blue": {
+        "doubleaction": true,
+        "english": "Color 2 Blue"
+    },
+    "menu_options_bulletcolors_custom2green": {
+        "doubleaction": true,
+        "english": "Color 2 Green"
+    },
+    "menu_options_bulletcolors_custom2red": {
+        "doubleaction": true,
+        "english": "Color 2 Red"
+    },
+    "menu_options_bulletcolors_original": {
+        "doubleaction": true,
+        "english": "Original"
+    },
+    "menu_options_bulletglow": {
+        "doubleaction": true,
+        "english": "Bullet Glow"
+    },
+    "menu_options_button": {
+        "english": "Button %d"
+    },
+    "menu_options_cheats": {
+        "doubleaction": true,
+        "english": "Cheats"
+    },
+    "menu_options_clearshot": {
+        "doubleaction": true,
+        "english": "Transparent Player Bullets"
+    },
+    "menu_options_clockwise": {
+        "english": "Clockwise"
+    },
+    "menu_options_confirm": {
+        "english": "Confirm"
+    },
+    "menu_options_controller": {
+        "english": "Joypad"
+    },
+    "menu_options_counterclockwise": {
+        "english": "Counter-Clockwise"
+    },
+    "menu_options_credits": {
+        "english": "Credits"
+    },
+    "menu_options_display": {
+        "english": "Display"
+    },
+    "menu_options_doubleaction": {
+        "english": "Double Action"
+    },
+    "menu_options_down": {
+        "english": "Down"
+    },
+    "menu_options_downleft": {
+        "english": "Down-Left"
+    },
+    "menu_options_downright": {
+        "english": "Down-Right"
+    },
+    "menu_options_exemia": {
+        "english": "Exemia"
+    },
+    "menu_options_exemia_maddrift": {
+        "english": "Exemia+MadDrift"
+    },
+    "menu_options_credits_doubleaction": {
+        "doubleaction": true,
+        "english": "By Hagane & Exemia"
+    },
+    "menu_options_credits_original": {
+        "doubleaction": true,
+        "english": "By Qygen"
+    },
+    "menu_options_filter": {
+        "doubleaction": true,
+        "english": "Filter"
+    },
+    "menu_options_fire": {
+        "english": "Fire"
+    },
+    "menu_options_flashfrequency": {
+        "doubleaction": true,
+        "english": "Damage Flash Frequency"
+    },
+    "menu_options_framerate": {
+        "doubleaction": true,
+        "english": "Framerate"
+    },
+    "menu_options_freeplay": {
+        "english": "Free Play"
+    },
+    "menu_options_fullscreen": {
+        "english": "Fullscreen"
+    },
+    "menu_options_gadgets": {
+        "doubleaction": true,
+        "english": "Gadgets"
+    },
+    "menu_options_gadgets_message": {
+        "doubleaction": true,
+        "english": "This feature is intended for large, high-resolution displays."
+    },
+    "menu_options_gameplay": {
+        "english": "Gameplay"
+    },
+    "menu_options_graphics": {
+        "english": "Graphics"
+    },
+    "menu_options_graphicsmode": {
+        "english": "Mode"
+    },
+    "menu_options_hat": {
+        "english": "Hat %d"
+    },
+    "menu_options_hyphen": {
+        "english": "Hyphen"
+    },
+    "menu_options_ikaruga": {
+        "english": "ikaruga_nex"
+    },
+    "menu_options_input": {
+        "english": "Input"
+    },
+    "menu_options_insane": {
+        "doubleaction": true,
+        "english": "Insane!"
+    },
+    "menu_options_language": {
+        "english": "Language"
+    },
+    "menu_options_lastbosstheme": {
+        "english": "Last Boss"
+    },
+    "menu_options_left": {
+        "english": "Left"
+    },
+    "menu_options_legibility": {
+        "doubleaction": true,
+        "english": "Legibility"
+    },
+    "menu_options_mastervolume": {
+        "english": "Master Volume"
+    },
+    "menu_options_menutheme": {
+        "english": "Menu"
+    },
+    "menu_options_mitomoro": {
+        "english": "Mitomoro"
+    },
+    "menu_options_mixwallpaper": {
+        "doubleaction": true,
+        "english": "Mix"
+    },
+    "menu_options_momobako": {
+        "english": "Mae (CV: Momobako)"
+    },
+    "menu_options_musicvolume": {
+        "english": "Music Volume"
+    },
+    "menu_options_nameentrytheme": {
+        "english": "Name Entry"
+    },
+    "menu_options_nativeratio": {
+        "english": "3:4 (Native)"
+    },
+    "menu_options_nayuki": {
+        "english": "Val (CV: Nayuki Yuzu)"
+    },
+    "menu_options_no_controller": {
+        "english": "None"
+    },
+    "menu_options_noannouncer": {
+        "english": "None"
+    },
+    "menu_options_norotation": {
+        "english": "None"
+    },
+    "menu_options_nowallpaper": {
+        "english": "None"
+    },
+    "menu_options_palettes": {
+        "doubleaction": true,
+        "english": "Palettes"
+    },
+    "menu_options_pause": {
+        "english": "Pause"
+    },
+    "menu_options_perfect": {
+        "english": "Perfect"
+    },
+    "menu_options_proportionate": {
+        "english": "Proportionate"
+    },
+    "menu_options_qygen": {
+        "english": "Original"
+    },
+    "menu_options_rank": {
+        "english": "Rank"
+    },
+    "menu_options_rapidfire": {
+        "english": "Rapid-Fire"
+    },
+    "menu_options_rebindcontrols": {
+        "english": "Rebind Controls"
+    },
+    "menu_options_reduceflashintensity": {
+        "doubleaction": true,
+        "english": "Reduce Flash Intensity"
+    },
+    "menu_options_resetachievements": {
+        "doubleaction": true,
+        "english": "Reset Steam achievements"
+    },
+    "menu_options_resetconfig": {
+        "english": "Reset Config"
+    },
+    "menu_options_resetcontrols": {
+        "english": "Reset Controls"
+    },
+    "menu_options_resetsavefile": {
+        "english": "Reset Save File"
+    },
+    "menu_options_resolution": {
+        "english": "Resolution"
+    },
+    "menu_options_right": {
+        "english": "Right"
+    },
+    "menu_options_rotation": {
+        "english": "Rotation"
+    },
+    "menu_options_rottking": {
+        "english": "Rottking"
+    },
+    "menu_options_ruleset": {
+        "doubleaction": true,
+        "english": "Ruleset"
+    },
+    "menu_options_ruleset_classic": {
+        "doubleaction": true,
+        "english": "Classic"
+    },
+    "menu_options_ruleset_classic_desc": {
+        "doubleaction": true,
+        "english": "v1.11 style gameplay. Alters flourish timings, shot power, bomb mechanics, scoring mechanics and more. Not identical to v1.11. Intended for long-time players."
+    },
+    "menu_options_ruleset_doubleaction": {
+        "doubleaction": true,
+        "english": "Double Action"
+    },
+    "menu_options_savefile": {
+        "english": "Save File"
+    },
+    "menu_options_scaling": {
+        "english": "Scaling"
+    },
+    "menu_options_scoringinfo": {
+        "english": "Scoring Info"
+    },
+    "menu_options_screen": {
+        "doubleaction": true,
+        "english": "Screen"
+    },
+    "menu_options_showfps": {
+        "english": "Show FPS"
+    },
+    "menu_options_showgadgets": {
+        "doubleaction": true,
+        "english": "Gadgets"
+    },
+    "menu_options_showhitboxes": {
+        "english": "Show Hitboxes"
+    },
+    "menu_options_skipintro": {
+        "english": "Skip Intro"
+    },
+    "menu_options_soundtrack": {
+        "english": "Soundtrack"
+    },
+    "menu_options_soundvolume": {
+        "english": "Sound Volume"
+    },
+    "menu_options_announcervolume": {
+        "english": "Announcer Volume"
+    },
+    "menu_options_special": {
+        "english": "Special"
+    },
+    "menu_options_specialstagetheme": {
+        "english": "Special"
+    },
+    "menu_options_st1theme": {
+        "english": "Stage 1"
+    },
+    "menu_options_st2theme": {
+        "english": "Stage 2"
+    },
+    "menu_options_st3theme": {
+        "english": "Stage 3"
+    },
+    "menu_options_st4theme": {
+        "english": "Stage 4"
+    },
+    "menu_options_st5theme": {
+        "english": "Stage 5"
+    },
+    "menu_options_terranaut": {
+        "english": "Terranaut"
+    },
+    "menu_options_topbar_extend": {
+        "doubleaction": true,
+        "english": "Extend"
+    },
+    "menu_options_topbardisplay": {
+        "english": "Top Bar Display"
+    },
+    "menu_options_transparentscoreitems": {
+        "doubleaction": true,
+        "english": "Transparent Score Items"
+    },
+    "menu_options_unlockeverything": {
+        "doubleaction": true,
+        "english": "Unlock Everything"
+    },
+    "menu_options_up": {
+        "english": "Up"
+    },
+    "menu_options_upleft": {
+        "english": "Up-Left"
+    },
+    "menu_options_upright": {
+        "english": "Up-Right"
+    },
+    "menu_options_vsync": {
+        "english": "V-Sync"
+    },
+    "menu_options_wallpaper": {
+        "english": "Wallpaper"
+    },
+    "menu_options_wallpapermix1": {
+        "doubleaction": true,
+        "english": "Wallpaper Mix 1"
+    },
+    "menu_options_wallpapermix2": {
+        "doubleaction": true,
+        "english": "Wallpaper Mix 2"
+    },
+    "menu_options_windowed": {
+        "english": "Windowed"
+    },
+    "menu_replay_delete": {
+        "english": "Delete Replay"
+    },
+    "menu_replay_noreplays": {
+        "english": "No replays found."
+    },
+    "menu_stageselect_aftermidboss": {
+        "english": "After Midboss"
+    },
+    "menu_stageselect_bombs": {
+        "english": "Bombs"
+    },
+    "menu_stageselect_lives": {
+        "english": "Lives"
+    },
+    "menu_stageselect_boss": {
+        "english": "Boss"
+    },
+    "menu_stageselect_character": {
+        "english": "Character"
+    },
+    "menu_stageselect_cluster": {
+        "english": "Cluster Missile"
+    },
+    "menu_stageselect_dee": {
+        "doubleaction": true,
+        "english": "Dee"
+    },
+    "menu_stageselect_descent": {
+        "doubleaction": true,
+        "english": "Descent"
+    },
+    "menu_stageselect_difficulty": {
+        "english": "Mode"
+    },
+    "menu_stageselect_freezerank": {
+        "english": "Freeze Rank"
+    },
+    "menu_stageselect_hypermode": {
+        "english": "Hyper"
+    },
+    "menu_stageselect_lancer": {
+        "english": "Plasma Lancer"
+    },
+    "menu_stageselect_laser": {
+        "english": "Hyper Laser"
+    },
+    "menu_stageselect_lightning": {
+        "english": "Arc Caster"
+    },
+    "menu_stageselect_mae": {
+        "english": "Mae"
+    },
+    "menu_stageselect_midboss": {
+        "english": "Midboss"
+    },
+    "menu_stageselect_midboss1": {
+        "english": "Midboss 1"
+    },
+    "menu_stageselect_midboss2": {
+        "english": "Midboss 2"
+    },
+    "menu_stageselect_midboss3": {
+        "english": "Midboss 3"
+    },
+    "menu_stageselect_midboss4": {
+        "english": "Midboss 4"
+    },
+    "menu_stageselect_normalmode": {
+        "english": "Normal"
+    },
+    "menu_stageselect_parallelmode": {
+        "english": "Parallel"
+    },
+    "menu_stageselect_pierce": {
+        "doubleaction": true,
+        "english": "Pierce Lancer"
+    },
+    "menu_stageselect_rank": {
+        "english": "Rank"
+    },
+    "menu_stageselect_salvo": {
+        "doubleaction": true,
+        "english": "Fractal Salvo"
+    },
+    "menu_stageselect_shield": {
+        "doubleaction": true,
+        "english": "Gun Buckler"
+    },
+    "menu_stageselect_special": {
+        "english": "Special"
+    },
+    "menu_stageselect_stage": {
+        "english": "Stage"
+    },
+    "menu_stageselect_stage1": {
+        "english": "Stage 1 [MOUNTAIN]"
+    },
+    "menu_stageselect_stage2": {
+        "english": "Stage 2 [HARBOUR]"
+    },
+    "menu_stageselect_stage3": {
+        "english": "Stage 3 [CLOUD]"
+    },
+    "menu_stageselect_stage4": {
+        "english": "Stage 4 [BASE]"
+    },
+    "menu_stageselect_stage5": {
+        "english": "Stage 5 [DREAM]"
+    },
+    "menu_stageselect_stagestart": {
+        "english": "Start"
+    },
+    "menu_stageselect_start": {
+        "english": "Start"
+    },
+    "menu_stageselect_startfrom": {
+        "english": "Start from"
+    },
+    "menu_stageselect_stasis": {
+        "english": "Stasis Field"
+    },
+    "menu_stageselect_truelastboss": {
+        "english": "True Last Boss"
+    },
+    "menu_stageselect_val": {
+        "english": "Val"
+    },
+    "menu_stageselect_vortex": {
+        "english": "Vortex Barrier"
+    },
+    "menu_stageselect_xmode": {
+        "doubleaction": true,
+        "english": "XP-Mode"
+    },
+    "menu_unlocks_filter_description": {
+        "doubleaction": true,
+        "english": "A \"%s\" screen filter."
+    },
+    "menu_unlocks_gallery": {
+        "english": "Gallery\nArt"
+    },
+    "menu_unlocks_gallery_generic_description": {
+        "doubleaction": true,
+        "english": "An art piece by %s. Can be used as game wallpaper."
+    },
+    "menu_unlocks_need_adjacent": {
+        "doubleaction": true,
+        "english": "You need an adjacent item first..."
+    },
+    "menu_unlocks_palette": {
+        "english": "Device\nPalette"
+    },
+    "menu_unlocks_palette_dee_description": {
+        "doubleaction": true,
+        "english": "An alternate palette for Dee's device."
+    },
+    "menu_unlocks_palette_mae_description": {
+        "english": "An alternate palette for Mae's device."
+    },
+    "menu_unlocks_palette_val_description": {
+        "english": "An alternate palette for Val's device."
+    },
+    "menu_unlocks_presstolisten": {
+        "english": "Press RAPID FIRE to listen"
+    },
+    "menu_unlocks_remix": {
+        "english": "Remix\nTrack"
+    },
+    "menu_unlocks_remix_10_description": {
+        "english": "A last boss remix, by Aghast."
+    },
+    "menu_unlocks_remix_11_description": {
+        "english": "A name entry remix, by Blue Phoenix."
+    },
+    "menu_unlocks_remix_12_description": {
+        "english": "A special stage remix, by Blue Phoenix."
+    },
+    "menu_unlocks_remix_13_description": {
+        "english": "A credits remix, by Blue Phoenix."
+    },
+    "menu_unlocks_remix_1_description": {
+        "english": "A menu remix, by Exemia."
+    },
+    "menu_unlocks_remix_2_description": {
+        "english": "A stage 1 remix, by Terranaut."
+    },
+    "menu_unlocks_remix_3_description": {
+        "english": "A stage 1 remix, by Blue Phoenix."
+    },
+    "menu_unlocks_remix_4_description": {
+        "english": "A stage 2 remix, by Mitomoro."
+    },
+    "menu_unlocks_remix_5_description": {
+        "english": "A stage 2 remix, by Terranaut."
+    },
+    "menu_unlocks_remix_6_description": {
+        "english": "A stage 3 remix, by Exemia."
+    },
+    "menu_unlocks_remix_7_description": {
+        "english": "A stage 5 remix, by Hyphen."
+    },
+    "menu_unlocks_remix_8_description": {
+        "english": "A boss remix, by Exemia and MadDrift."
+    },
+    "menu_unlocks_remix_9_description": {
+        "english": "A last boss remix, by ikaruga_nex."
+    },
+    "menu_unlocks_xweapon_description": {
+        "doubleaction": true,
+        "english": "%s. A special weapon, used in XP-Mode. (Unlocks XP-Mode.)"
+    },
+    "mission_base_name": {
+        "doubleaction": true,
+        "english": "Base"
+    },
+    "mission_bossrush_description": {
+        "english": "Difficulty is high. Fight and triumph against every boss!"
+    },
+    "mission_bossrush_name": {
+        "english": "Boss Rush"
+    },
+    "mission_breakthrough_description": {
+        "doubleaction": true,
+        "english": "Survive against an infinite advance of enemies. Learn to avoid aimed fire!"
+    },
+    "mission_breakthrough_name": {
+        "doubleaction": true,
+        "english": "Breakthrough"
+    },
+    "mission_clear": {
+        "english": "Mission Clear!"
+    },
+    "mission_clear_target": {
+        "doubleaction": true,
+        "english": "Clear & Target Score!"
+    },
+    "mission_cloud_name": {
+        "doubleaction": true,
+        "english": "Cloud"
+    },
+    "mission_deathbullet_description": {
+        "english": "All enemies release bullets when they die. Clear the stage using careful movement!"
+    },
+    "mission_deathbullet_name": {
+        "english": "Death Bullet"
+    },
+    "mission_delphibreaker_name": {
+        "english": "DELPHI"
+    },
+    "mission_dream_name": {
+        "doubleaction": true,
+        "english": "Dream"
+    },
+    "mission_experimentalweapon2_description": {
+        "doubleaction": true,
+        "english": "Your laser converts bullets into score. Your shot replenishes the laser. Time to go crazy!"
+    },
+    "mission_experimentalweapon2_name": {
+        "doubleaction": true,
+        "english": "X-Weapon 2"
+    },
+    "mission_experimentalweapon_description": {
+        "english": "Your only weapon is a unique special weapon. Ammo replenishes over time. Clear the stage!"
+    },
+    "mission_experimentalweapon_name": {
+        "english": "X-Weapon"
+    },
+    "mission_generic_boss_description": {
+        "doubleaction": true,
+        "english": "Take out the boss using the set loadout."
+    },
+    "mission_generic_stage_description": {
+        "doubleaction": true,
+        "english": "Clear the stage using the set loadout."
+    },
+    "mission_harbour_name": {
+        "doubleaction": true,
+        "english": "Harbour"
+    },
+    "mission_haskelbreaker_name": {
+        "english": "HASKEL"
+    },
+    "mission_invisiblebullet_description": {
+        "english": "Bullets fade out as they get closer. Clear the stage and the boss!"
+    },
+    "mission_invisiblebullet_name": {
+        "english": "Invisible Bullet"
+    },
+    "mission_junkattack_description": {
+        "doubleaction": true,
+        "english": "The stage is full of bullet-filled scrap. Avoid chain reactions! Pick what you destroy carefully!"
+    },
+    "mission_junkattack_name": {
+        "doubleaction": true,
+        "english": "Scrap Attack"
+    },
+    "mission_lightninground2_description": {
+        "english": "Bullets are fast! Clear the stage!"
+    },
+    "mission_lightninground2_name": {
+        "english": "Lightning Round 2"
+    },
+    "mission_lightninground_description": {
+        "english": "The difficulty is high, and bullets are much faster. Use your bombs - clear the stage and boss!"
+    },
+    "mission_lightninground_name": {
+        "english": "Lightning Round"
+    },
+    "mission_lunabreaker_name": {
+        "english": "LUNA"
+    },
+    "mission_matador_description": {
+        "english": "A large projectile is constantly following you. Your special weapon can slow it down. Clear the stage!"
+    },
+    "mission_matador_name": {
+        "english": "Matador"
+    },
+    "mission_midbossrush_description": {
+        "english": "Difficulty is high. Take on and defeat all midbosses!"
+    },
+    "mission_midbossrush_name": {
+        "english": "Midboss Rush"
+    },
+    "mission_mountain_name": {
+        "doubleaction": true,
+        "english": "Mountain"
+    },
+    "mission_needclears": {
+        "english": "Clear %d more to access!"
+    },
+    "mission_snakerevenge_description": {
+        "doubleaction": true,
+        "english": "A rare enemy returns! How you destroy them affects the difficulty..."
+    },
+    "mission_snakerevenge_name": {
+        "doubleaction": true,
+        "english": "Snake Revenge"
+    },
+    "mission_squibbattle_description": {
+        "doubleaction": true,
+        "english": "Defeat the unique boss while being pursued by an orb!"
+    },
+    "mission_squibbattle_name": {
+        "doubleaction": true,
+        "english": "Squib Battle"
+    },
+    "mission_superbomber_description": {
+        "doubleaction": true,
+        "english": "You have no special weapon, but scoring creates bomb items. Go for a high score!"
+    },
+    "mission_superbomber_name": {
+        "doubleaction": true,
+        "english": "High Explosive"
+    },
+    "mission_target": {
+        "doubleaction": true,
+        "english": "Target score!"
+    },
+    "mission_yasumibreaker_name": {
+        "english": "YASUMI"
+    },
+    "mission_zangyou_description": {
+        "doubleaction": true,
+        "english": "Fight and win against a unique, super-hard stage 3 boss!"
+    },
+    "mission_zangyou_name": {
+        "doubleaction": true,
+        "english": "Zangyou"
+    },
+    "mission_zealotbreaker_name": {
+        "english": "ZEALOT"
+    },
+    "no": {
+        "english": "No"
+    },
+    "off": {
+        "english": "Off"
+    },
+    "on": {
+        "english": "On"
+    },
+    "pattern_1_1": {
+        "english": "FB-12 \"PULPIT\""
+    },
+    "pattern_1_2": {
+        "english": "CR-19 \"BLUSTER\""
+    },
+    "pattern_1_3": {
+        "english": "HRX-05 \"PURSUIT\""
+    },
+    "pattern_1_4": {
+        "english": "FR-10 \"GUTTERSNIPE\""
+    },
+    "pattern_2_1": {
+        "english": "CSD-34 \"FOCUS\""
+    },
+    "pattern_2_2": {
+        "english": "AR-24 \"MIRAGE\""
+    },
+    "pattern_2_3": {
+        "english": "MR-29 \"HEURISTIC\""
+    },
+    "pattern_2_4": {
+        "english": "LRX-22 \"NUDGE\""
+    },
+    "pattern_2_5": {
+        "english": "MR-38 \"TYRANT\""
+    },
+    "pattern_3_1": {
+        "english": "TR-54 \"SIGNATURE\""
+    },
+    "pattern_3_2": {
+        "english": "FBD-48 \"INQUIRY\""
+    },
+    "pattern_3_3": {
+        "english": "AR-54 \"SPOTLIGHT\""
+    },
+    "pattern_3_4": {
+        "english": "MB-53 \"WIZARD\""
+    },
+    "pattern_3_5": {
+        "english": "LB-50 \"RAPID EYE MOVEMENT\""
+    },
+    "pattern_3_6": {
+        "english": "LRD-57 \"OVERTIME\""
+    },
+    "pattern_4_1": {
+        "english": "MR-78 \"MUDDLE\""
+    },
+    "pattern_4_2": {
+        "english": "OB-64 \"HANDSHAKE\""
+    },
+    "pattern_4_3": {
+        "english": "ARX-75 \"SLATHER\""
+    },
+    "pattern_4_4": {
+        "english": "LS-62 \"SUNDER\""
+    },
+    "pattern_4_5": {
+        "english": "LMR-79 \"MONTE CARLO\""
+    },
+    "pattern_4_6": {
+        "english": "\"VDM-86\""
+    },
+    "pattern_5_1": {
+        "english": "MBX-94 \"BIRDSHOT\""
+    },
+    "pattern_5_10": {
+        "english": "ORH-92 \"ZUGZWANG\""
+    },
+    "pattern_5_11": {
+        "english": "OSH-80 \"FUSILLADE\""
+    },
+    "pattern_5_12": {
+        "english": "LBH-94 \"FIANCHETTO\""
+    },
+    "pattern_5_13": {
+        "english": "VX-86 \"MARTINET\""
+    },
+    "pattern_5_14": {
+        "english": "ARX-100 \"REVOLVER\""
+    },
+    "pattern_5_2": {
+        "english": "LBD-85 \"KEYHOLE\""
+    },
+    "pattern_5_3": {
+        "english": "LBH-90 \"GRIDIRON\""
+    },
+    "pattern_5_4": {
+        "english": "MR-82 \"SCRIMMAGE\""
+    },
+    "pattern_5_5": {
+        "english": "CB-87 \"POUND\""
+    },
+    "pattern_5_6": {
+        "english": "MRX-90 \"HOUDINI\""
+    },
+    "pattern_5_7": {
+        "english": "LB-88 \"VOODOO\""
+    },
+    "pattern_5_8": {
+        "english": "ARX-94 \"MESMERIZE\""
+    },
+    "pattern_5_9": {
+        "english": "LZS-88 \"PRESS\""
+    },
+    "pattern_squib_1": {
+        "english": "SQB-100 \"GLOW SQUIB\""
+    },
+    "pattern_squib_2": {
+        "english": "SQB-256 \"VANISHING POINT\""
+    },
+    "pattern_squib_3": {
+        "english": "SQB-411 \"PALINOPSIA\""
+    },
+    "pattern_squib_4": {
+        "english": "SQB-639 \"BAD OPTIC\""
+    },
+    "pattern_squib_5": {
+        "english": "SQB-888 \"CAUSTIC CONSTANT\""
+    },
+    "pattern_squib_6": {
+        "english": "SQB-1.2e11 \"BRILLIANCE\""
+    },
+    "pattern_tlb_1": {
+        "english": "ECR-180 \"BOMBAST\""
+    },
+    "pattern_tlb_2": {
+        "english": "EMR-290 \"DIRECTIVE\""
+    },
+    "pattern_tlb_3": {
+        "english": "ELD-560 \"CRUNCH\""
+    },
+    "pattern_tlb_4": {
+        "english": "\"MDR-720\""
+    },
+    "pattern_tlb_5": {
+        "english": "TLB-999 \"BLUE REVOLVER\""
+    },
+    "pattern_zangyou_1": {
+        "english": "DFA-100 \"JULIENNE\""
+    },
+    "pattern_zangyou_2": {
+        "english": "TSX-140 \"RUPTURE\""
+    },
+    "pattern_zangyou_3": {
+        "english": "BGR-180 \"BRUXISM\""
+    },
+    "pattern_zangyou_4": {
+        "english": "CGS-220 \"EFFUSION\""
+    },
+    "pattern_zangyou_5": {
+        "english": "AGR-340 \"DEADLINE\""
+    },
+    "pattern_zangyou_6": {
+        "english": "ZNG-999 \"OVERPRESSURE\""
+    },
+    "pause_quit": {
+        "english": "Quit"
+    },
+    "pause_restart": {
+        "english": "Restart"
+    },
+    "pause_resume": {
+        "english": "Resume"
+    },
+    "pause_skip": {
+        "english": "Skip"
+    },
+    "pause_title": {
+        "english": "Title"
+    },
+    "perk_better_flourish_extension": {
+        "doubleaction": true,
+        "english": "Better flourish extension"
+    },
+    "perk_bomb_damages_all": {
+        "doubleaction": true,
+        "english": "Bombs damage everything"
+    },
+    "perk_dps": {
+        "doubleaction": true,
+        "english": "Somewhat higher shot damage"
+    },
+    "perk_easier_extends": {
+        "doubleaction": true,
+        "english": "Easier extends"
+    },
+    "perk_extra_bombs": {
+        "doubleaction": true,
+        "english": "More bomb drops"
+    },
+    "perk_extra_life": {
+        "doubleaction": true,
+        "english": "Start with an extra life"
+    },
+    "perk_focused_dps": {
+        "doubleaction": true,
+        "english": "Higher focused shot damage"
+    },
+    "perk_free_refills": {
+        "doubleaction": true,
+        "english": "Refill ammo every stage"
+    },
+    "perk_larger_shots": {
+        "doubleaction": true,
+        "english": "Larger player shot collision"
+    },
+    "perk_longer_counterbomb": {
+        "doubleaction": true,
+        "english": "Longer counterbomb window"
+    },
+    "perk_longer_flourish": {
+        "doubleaction": true,
+        "english": "Longer flourish time"
+    },
+    "perk_more_bomb_ammo": {
+        "doubleaction": true,
+        "english": "Bombs create more ammo"
+    },
+    "perk_none_classic_ruleset": {
+        "doubleaction": true,
+        "english": "Classic ruleset"
+    },
+    "perk_unfocused_dps": {
+        "doubleaction": true,
+        "english": "Higher unfocused shot damage"
+    },
+    "pressanykey": {
+        "english": "Press Any Key"
+    },
+    "rank_level": {
+        "english": "Level %d"
+    },
+    "replay_ask_save": {
+        "english": "Save replay?"
+    },
+    "replay_framerate_warning": {
+        "doubleaction": true,
+        "english": "This replay was recorded at a high framerate. It may play slowly on some devices."
+    },
+    "run_bonus": {
+        "english": "Run Bonus"
+    },
+    "shipselect_hyper_description": {
+        "english": "The usual, hectic experience. The game will try to match your ability. For shooting veterans."
+    },
+    "shipselect_normal_description": {
+        "english": "For novice players. Enemy patterns go easier on you, and you'll automatically bomb if you get hit."
+    },
+    "shipselect_parallel_description": {
+        "doubleaction": true,
+        "english": "The game is locked at the highest difficulty. Fewer extends available, but more bombs. If you can clear this..."
+    },
+    "shipselect_speed": {
+        "doubleaction": true,
+        "english": "Movement Speed"
+    },
+    "shipselect_speed_fast": {
+        "doubleaction": true,
+        "english": "Fast (100%)"
+    },
+    "shipselect_speed_medium": {
+        "doubleaction": true,
+        "english": "Medium (90%)"
+    },
+    "shipselect_speed_slow": {
+        "doubleaction": true,
+        "english": "Slow (75%)"
+    },
+    "shipselect_weapon_bit_description": {
+        "doubleaction": true,
+        "english": "A typical lock-on weapon. The laser is misaligned..."
+    },
+    "shipselect_weapon_bit_name": {
+        "english": "Percept Bit"
+    },
+    "shipselect_weapon_blade_name": {
+        "english": "Plasma Blade"
+    },
+    "shipselect_weapon_blast_description": {
+        "doubleaction": true,
+        "english": "An impressive amount of pathetically weak grenades."
+    },
+    "shipselect_weapon_blast_name": {
+        "english": "Cascade Blast"
+    },
+    "shipselect_weapon_cable_description": {
+        "doubleaction": true,
+        "english": "The cable isn't insulated, so it's seriously dangerous."
+    },
+    "shipselect_weapon_cable_name": {
+        "english": "Volt Cable"
+    },
+    "shipselect_weapon_cannon_name": {
+        "english": "Pierce Lancer"
+    },
+    "shipselect_weapon_cluster_name": {
+        "english": "Cluster Missile"
+    },
+    "shipselect_weapon_drone_description": {
+        "doubleaction": true,
+        "english": "Meagre damage on a direct hit. It'd be better to miss."
+    },
+    "shipselect_weapon_drone_name": {
+        "english": "Zap Drone"
+    },
+    "shipselect_weapon_junk_name": {
+        "english": "Junk Cannon"
+    },
+    "shipselect_weapon_lancer_name": {
+        "english": "Plasma Lancer"
+    },
+    "shipselect_weapon_laser_name": {
+        "english": "Hyper Laser"
+    },
+    "shipselect_weapon_lightning_name": {
+        "english": "Arc Caster"
+    },
+    "shipselect_weapon_orb_description": {
+        "doubleaction": true,
+        "english": "Bounces off everything, including other orbs."
+    },
+    "shipselect_weapon_orb_name": {
+        "english": "Kinetic Orb"
+    },
+    "shipselect_weapon_payload_name": {
+        "english": "Cluster Payload"
+    },
+    "shipselect_weapon_salvo_name": {
+        "english": "Fractal Salvo"
+    },
+    "shipselect_weapon_shield_name": {
+        "english": "Gun Buckler"
+    },
+    "shipselect_weapon_shrapnel_name": {
+        "english": "Scrap Option"
+    },
+    "shipselect_weapon_stasis_name": {
+        "english": "Stasis Field"
+    },
+    "shipselect_weapon_vortex_name": {
+        "english": "Vortex Barrier"
+    },
+    "start_bombtoskip": {
+        "english": "BOMB: Skip"
+    },
+    "start_experimentalextends": {
+        "english": "Extends at:\nevery 20,000,000"
+    },
+    "start_hyperextends": {
+        "english": "Extends at:\n5,000,000\nevery 15,000,000"
+    },
+    "start_hyperextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\n5,000,000\n15,000,000\n25,000,000\n50,000,000"
+    },
+    "start_normalextends": {
+        "english": "Extends at:\n5,000,000\nevery 10,000,000"
+    },
+    "start_normalextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\n5,000,000\n10,000,000\n20,000,000\n30,000,000"
+    },
+    "start_parallelextends": {
+        "english": "Extends at:\n40,000,000\n80,000,000\n120,000,000"
+    },
+    "start_parallelextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\nevery 15,000,000"
+    },
+    "tutorial_bl_basics_1": {
+        "doubleaction": true,
+        "english": "Tap or hold %s for an unlimited-ammo machinegun."
+    },
+    "tutorial_bl_basics_2": {
+        "doubleaction": true,
+        "english": "Tapping %s (or holding %s) lets you shoot while staying at full speed."
+    },
+    "tutorial_bl_basics_3": {
+        "doubleaction": true,
+        "english": "Holding %s tightens the spread and does a little more damage - slowing you down for precise movement."
+    },
+    "tutorial_bl_basics_4": {
+        "doubleaction": true,
+        "english": "Hold %s for a special weapon. It uses ammo, but is more powerful."
+    },
+    "tutorial_bl_basics_5": {
+        "doubleaction": true,
+        "english": "In a pinch, use a bomb with %s - making you invulnerable for a short duration, and turning enemy bullets into ammo."
+    },
+    "tutorial_bl_basics_6": {
+        "doubleaction": true,
+        "english": "Only the yellow part in the middle of your ship is vulnerable - keep it safe."
+    },
+    "tutorial_bl_basics_7": {
+        "doubleaction": true,
+        "english": "Scoring well awards bonus lives - check the \"Scoring\" tutorial for more information."
+    },
+    "tutorial_bl_basics_8": {
+        "doubleaction": true,
+        "english": "Good luck!"
+    },
+    "tutorial_bl_hyper_1": {
+        "doubleaction": true,
+        "english": "Hyper mode uses a dynamic difficulty / \"rank\" system. The bar at the top represents the difficulty."
+    },
+    "tutorial_bl_hyper_2": {
+        "doubleaction": true,
+        "english": "There are five color-coded difficulty levels."
+    },
+    "tutorial_bl_hyper_3": {
+        "doubleaction": true,
+        "english": "Scoring points fills the difficulty bar until it levels up."
+    },
+    "tutorial_bl_hyper_4": {
+        "doubleaction": true,
+        "english": "Dying will level down the difficulty."
+    },
+    "tutorial_bl_hyper_5": {
+        "doubleaction": true,
+        "english": "Once max difficulty is reached, the difficulty eventually decreases on its own - the less lives you have, the faster it decreases."
+    },
+    "tutorial_bl_scoring_1": {
+        "doubleaction": true,
+        "english": "Destroy enemies with the machinegun in quick succession to build up an 8-Chain."
+    },
+    "tutorial_bl_scoring_2": {
+        "doubleaction": true,
+        "english": "After building an 8-chain, use the special weapon to \"Flourish\" - destroy enemies with it to generate score items until the chain resets!"
+    },
+    "tutorial_bl_scoring_3": {
+        "doubleaction": true,
+        "english": "You can extend chains and flourishes using a bomb."
+    },
+    "tutorial_bl_scoring_4": {
+        "doubleaction": true,
+        "english": "\"Break\" bonuses are point bonuses awarded for special \"tricks\"."
+    },
+    "tutorial_bl_scoring_5": {
+        "doubleaction": true,
+        "english": "To score this bonus, destroy both wings in quick succession."
+    },
+    "tutorial_bl_scoring_6": {
+        "doubleaction": true,
+        "english": "Look for these markers to figure out how to score breaks."
+    },
+    "tutorial_bl_scoring_6_break": {
+        "doubleaction": true,
+        "english": "Destroy this!"
+    },
+    "tutorial_bl_scoring_6_nobreak": {
+        "doubleaction": true,
+        "english": "Don't destroy this!"
+    },
+    "tutorial_bl_scoring_7": {
+        "doubleaction": true,
+        "english": "Getting set score thresholds will award you with an \"extend\" - a bonus life!"
+    },
+    "tutorial_xmode_1": {
+        "doubleaction": true,
+        "english": "In XP-Mode, special weapons consume lots of ammo, but always produce x64 score items."
+    },
+    "tutorial_xmode_2": {
+        "doubleaction": true,
+        "english": "Using your main shot will replenish ammunition. This is more effective at close-medium range."
+    },
+    "tutorial_xmode_3": {
+        "doubleaction": true,
+        "english": "Scoring will upgrade your ship. This increases the game difficulty. Game difficulty never decreases in this mode."
+    },
+    "tutorial_xmode_4": {
+        "doubleaction": true,
+        "english": "Scoring also refills your bomb. You can only have 1 bomb in stock, but it turns enemy bullets into score and refills ammo instantly."
+    },
+    "tutorial_xmode_5": {
+        "doubleaction": true,
+        "english": "The silver score items, produced by the bomb and some enemies, don't refill your bomb."
+    },
+    "val_ending_1": {
+        "english": "VAL: ... ... ..."
+    },
+    "val_ending_2": {
+        "english": "VAL: I'm calling sick today."
+    },
+    "val_ending_3": {
+        "english": "END"
+    },
+    "val_ending_timings": {
+        "english": [
+            4,
+            5,
+            8
+        ]
+    },
+    "yes": {
+        "english": "Yes"
+    }
+}
